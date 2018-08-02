@@ -1,4 +1,4 @@
-var repoPath = "https://github.com/csci479/csci479.github.io";
+var repoPath = "https://github.com/csci479/csci479.github.io/";
 
 function getThisPath()
 {
