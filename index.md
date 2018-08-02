@@ -14,7 +14,7 @@ After 3 years at Bucknell, you've gained an extraordinary amount of technical kn
 
 ### Resources
 - [Syllabus](docs/syllabus.html)
-- [Design Resources](http://eg.bucknell.edu/~emp017/hci/docs/resources.html)
+- [Design Resources](docs/resources.html)
 
 <!-- - List of External Project Proposals (_TBA_)
 
