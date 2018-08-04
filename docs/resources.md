@@ -16,7 +16,8 @@ exclude: true
 
 ## Tech resources
 - [Stackshare:](https://stackshare.io/stacks) a bunch of tech stacks by companies whose products you probably use.
-- [Database of Databases](https://dbdb.io/): information about every database under the sun (maintained by database research group at CMU)
+- [Database of Databases:](https://dbdb.io/) information about every database under the sun (maintained by database research group at CMU)
+- [Javascript Language Fundamentals (Philip Guo):](http://pgbovine.net/javascript-language-fundamentals.htm) 12 short videos to get you up to speed with javascript. 
 
 
 ## Design Resources

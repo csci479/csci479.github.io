@@ -5,11 +5,8 @@ title: Syllabus
 
 - **Instructor:** [Evan M. Peck](http://www.eg.bucknell.edu/~emp017)
 - **Office:** Dana 334
-- **Phone:** 570-577-2345
-- **Office Hours:** [See my calendar](http://www.eg.bucknell.edu/~emp017/calendar.html). Try to make it to my listed office hours _first_. If you have conflicts, look at my calendar and propose a time that works for you. While I am going to encourage interaction on Slack first and foremost for questions, I generally respond quickly to emails.
-
-## Course Catalog Description
-Students in teams use software engineering methodology to design and implement a semester-long project. Written reports and presentations are required. Prerequisites: CSCI 205 and senior standing in the College of Arts and Sciences.
+- **Phone:** 570-577-2345 (I prefer email!)
+- **Office Hours:** [See my calendar](http://www.eg.bucknell.edu/~emp017/calendar.html). Try to make it to my listed office hours _first_. If you have conflicts, look at my calendar and propose a couple of times that work for you.
 
 ### Course Outcomes
 Students will be able to...
@@ -27,12 +24,11 @@ CAC Student Outcomes Addressed:
 
 ### Course Structure
 
-This is a project based course. You will develop a large piece of software using an Agile software development process. The course meets three hours a week with a mix of lectures, collaborative learning activities, customer meetings, and team meetings. When necessary, we may move our meetings to a computer laboratory.
+This is a project based course. You will develop a large piece of software using an Agile software development process. The course meets three hours a week with a mix of lectures, collaborative learning activities, customer meetings, and team meetings. 
 
 **Since this is a W-2 course, students are expected to have a substantial amount of writing.** During the semester, we will set a number of milestones (short term goals) for the project that each team needs to meet. These milestones can be in the forms of written papers, presentations, deliverable software components, among others.
 
 ### The Project
-
 The instructor (and other customers) will propose projects for students to work with. Since we have only one semester to work on the projects, we will need to make a decision on the project in a short period of time, e.g., about two weeks. Teams of students can work on different projects.
 
 ## Expected Work
@@ -57,7 +53,6 @@ We will employ an agile software development process. Students are expected to a
   - Any successful stories or difficulties during the past weeks in the semester
   - Team reflections
 
-
 - **Product backlog and sprint backlog:** Each team will maintain a _Product Backlog_ and a _Sprint Backlog_. While the format of Product Backlog and Sprint Backlog varies greatly, we will pick a simple, yet effective one to use. The backlogs should be updated regularly to reflect the product progress and team work.
 
 - **Project Website:** Each team will maintain a project website to promote their team and product, using [Bucknell Blog site (with Wordpress)](https://www.blogs.bucknell.edu/) or your personal Bucknell site hosted at `eg.bucknell.edu/~username`.
@@ -73,16 +68,19 @@ We will employ an agile software development process. Students are expected to a
 
 ## Grades
 - **Individual Project Proposal:** 5%
-- **Participation and Team Assessments:** 15%
 - **Project Journals:** 10%
-- **Project Artifacts:** 12%
 - **System Design Report & Presentation:** 8%
-- **Project Progress Report & Presentation:** 20%
+- **Project Progress Report & Presentation:** 18%
+- **Participation and Team Assessments:** 20%
 - **Final Project Delivery, Presentation, & Report:** 20%
+- **Project Artifacts:** 10%
 - **Individual Reflection Paper:** 10%
 
 -------
 
-## Accessibility Statement
+### Accessibility
 
 Any student who needs an accommodation based on the impact of a disability should contact Heather Fowler, Director of the Office of Accessibility Resources at hf007@bucknell.edu, 570-577-1188 or in Room 212 Carnegie Building who will coordinate reasonable accommodations for students with documented disabilities.
+
+### Basic Needs Security
+Any student who has difficulty affording groceries or accessing sufficient food to eat every day, or who lacks a safe and stable place to live, and believes this may affect their performance in the course, is urged to contact the Dean of Students for support. Furthermore, please notify the professor if you are comfortable in doing so. This will enable him to provide any resources that he may possess.
