@@ -14,20 +14,35 @@ After 3 years at Bucknell, you've gained an extraordinary amount of technical kn
 
 ### Resources
 - [Syllabus](docs/syllabus.html)
-- [Resources](docs/resources.html)
+- [Resources (links)](docs/resources.html)
 
 <!-- - List of External Project Proposals (_TBA_)
 
 - [Team Formation Research Form](https://goo.gl/forms/IIc5Pp8znSGb5ifH3) \| _8/28_ -->
 
-### Major Milestones
+## Milestones
 
-- [Project Proposal (Individual)](docs/individual.html) \| _9/1_
-- [System Design: Paper Presentation](docs/system.html) \| Overview: _9/13_ \| Report: _9/20_
-- [1st Progress Report & Presentation](docs/progress.html) \| _10/16_
-- [2nd Progress Report & Presentation](docs/progress.html) \| _11/13_
-- [Final Report and Presentation](docs/final.html) \| _12/06_
+### Team Milestones
+_Team Milestones should be committed to your repository in a reports folder_
+
+- [System Design Paper](docs/system.html) \| Overview: _9/12_ \| Report: _9/19_
+- [1st Progress Report](docs/progress.html) \| _10/10_
+- [2nd Progress Report](docs/progress.html) \| _10/31_
+- [Final Report and Presentation](docs/final.html) \| _12/3_
+
+### Individual Milestones
+_Individual work should be submitted in your individual Google Drive Folder_
+
+- Individual Reflection Prompts (all deadlines are at 8am):
+  - 8.27: [How do we form a good team?](prompts/teamcreation.html)
+  - 8.31: Upload your resume, bring a copy to class
+  - 9.05: How do we ensure a healthy, productive team?
+  - 9.26: Are we making the world better or worse?
+  -
 
 - [Final (Individual) Reflection](docs/reflection.html) \| _End of finals period_
 
-_Remember to submit weekly journals in your personal Drive folder_
+
+## Schedule
+
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQPspG85EOmYAWbeDZ2DLF7Zx8y52q5YJBmWrgoLOa0cViB5aDDjVS7casz6YppXJC6zF3OLJT6CbKS/pubhtml?gid=1114330697&amp;single=true&amp;widget=false&amp;headers=false&amp;range=a1:f47&amp;chrome=false" style="width:100%;height:750px;"></iframe>

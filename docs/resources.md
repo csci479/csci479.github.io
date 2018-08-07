@@ -17,7 +17,7 @@ exclude: true
 ## Tech resources
 - [Stackshare:](https://stackshare.io/stacks) a bunch of tech stacks by companies whose products you probably use.
 - [Database of Databases:](https://dbdb.io/) information about every database under the sun (maintained by database research group at CMU)
-- [Javascript Language Fundamentals (Philip Guo):](http://pgbovine.net/javascript-language-fundamentals.htm) 12 short videos to get you up to speed with javascript. 
+- [Javascript Language Fundamentals (Philip Guo):](http://pgbovine.net/javascript-language-fundamentals.htm) 12 short videos to get you up to speed with javascript.
 
 
 ## Design Resources
@@ -32,9 +32,11 @@ a quick and dirty set of guidelines to think about when creating a user interfac
 - [Voice And Tone:](http://voiceandtone.com/) best practices for the writing in your app - how do you create a clear, appropriate voice?
 
 #### Visual Design Resources
+- [Clean Up Your Mess: A Guide to Visual Design for Everyone:](http://www.visualmess.com/) a good, quick 'how-to' guide for visual design
 - [Adobe Color:](https://color.adobe.com/create/color-wheel/) interactive web app to help you choose nice color schemes.
 - [Colour Lovers:](http://www.colourlovers.com/) a community of people who post and vote on color palettes.
 - [Colorgorical:](http://vrl.cs.brown.edu/color) research-driven model to help you create color palettes that are both aesthetically pleasing and optimized for communicating data.
+- [Color Oracle:](http://colororacle.org/) a free color blindness simulator for Windows, Mac, and Linux
 - [LOLColors:](http://www.lolcolors.com/) curated color palette inspiration
 - [Fontpair:](http://fontpair.co/) collection of fonts that go well together.
 - [Beautiful Web Type:](http://hellohappy.org/beautiful-web-type/) showcases the most beautiful fonts from Google's free WebFonts collection
@@ -63,4 +65,4 @@ a quick and dirty set of guidelines to think about when creating a user interfac
 - [Awwwards:](http://www.awwwards.com/) awards for design, creativity, and innovation on the internet
 - [Niice:](https://niice.co/) sort of a more design focused pinterest site that can be used to create moodboards (and explore ones created by other people).
 - [muzli designers:](http://designers.muz.li/) browse the work by a number of designers
-- [heyuser:](http://heyuser.com/) a video gallery for mobile onboarding inspiration
+- [From Up North:](https://fromupnorth.com/) trendy, curated design inspiration. 
