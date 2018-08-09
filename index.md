@@ -35,7 +35,7 @@ _Individual work should be submitted in your individual Google Drive Folder_
 
 - Individual Reflection Prompts (all deadlines are at 8am):
   - 8.27: [How do we form a good team?](prompts/teamcreation.html)
-  - 8.31: Upload your resume, bring a copy to class
+  - 8.31: [How should we present ourselves on the job market?](prompts/resume.html)
   - 9.05: How do we ensure a healthy, productive team?
   - 9.26: Are we making the world better or worse?
 
