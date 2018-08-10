@@ -61,18 +61,18 @@ We will employ an agile software development process. Students are expected to a
 - [This rubric](../rubrics/writing.pdf) will be used to assess your writings.
 
 ### Grades
-- **Reflection Prompts:** 15%
-- **System Design Report & Presentation:** 8%
-- **Project Progress Report & Presentation:** 16%
-- **Participation and Team Assessments:** 15%
-- **Final Project Presentation & Report:** 20%
-- **Project Artifacts:** 15%
-- **Individual Reflection Paper:** 10%
+- (Individual) Reflection Prompts: 15%
+- (Team) System Design Report & Presentation: 8%
+- (Team) Project Progress Report & Presentation: 16%
+- (Individual/Team) Participation and Team Assessments: 15%
+- (Team) Final Project Presentation & Report: 20%
+- (Team) Project Artifacts: 15%
+- (Individual) Reflection Paper: 10%
 
 --------------
 
 ## Code of Conduct
-Professionally, we strongly adhere to [ACM's Code of Ethics](https://www.acm.org/code-of-ethics). Mores broadly, a course like CSCI 479 involves reflection, collaboration, and communication. We recognize that computer science has a checkered history with respect to inclusion - in corporate environments, in our classrooms, and in the products we create. As a result, *we strive to promote characteristics of transparency and inclusivity that reflect what we hope our field becomes* (and not necessarily what it has been or is now).
+Professionally, we strongly adhere to [ACM's Code of Ethics](https://www.acm.org/code-of-ethics). More broadly, a course like CSCI 479 involves reflection, collaboration, and communication. We recognize that computer science has a checkered history with respect to inclusion - in corporate environments, in our classrooms, and in the products we create. As a result, *we strive to promote characteristics of transparency and inclusivity that reflect what we hope our field becomes* (and not necessarily what it has been or is now).
 
 Above all, **be kind.**
 

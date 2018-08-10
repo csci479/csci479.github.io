@@ -6,8 +6,8 @@ layout: home
 ---
 ![alt text](figs/seniorDesign.png)
 
-# Computer Science: Design Project
-After 3 years at Bucknell, you've gained an extraordinary amount of technical knowledge. This is your opportunity to own a larger scale project from top to bottom. But more importantly, it's an opportunity to figure out a design process that you'll need for years after graduation. To that end, you will complete a semester-long project for an external client while applying and reflecting on software engineering processes.
+# CSCI 479: Computer Science Design Project
+After 3 years at Bucknell, you've gained an extraordinary amount of technical knowledge. This is your opportunity to own a larger scale project from top to bottom. But more importantly, it's an opportunity to figure out a design process that you'll need for years after graduation. To that end, you will complete a semester-long project for an external client while applying and reflecting on software engineering processes.  
 
 - **Who:** [Prof. Evan Peck](http://www.eg.bucknell.edu/~emp017/)
 - **Where:** BRKI 165
@@ -35,6 +35,7 @@ _Team Milestones should be committed to your repository in a reports folder_
 _Individual work should be submitted in your individual Google Drive Folder_
 
 - Individual Reflection Prompts (all deadlines are at 8am):
+  - 8.24: [Rapid-fire assessment](prompts/projectassess.html)
   - 8.27: [How do we form a good team?](prompts/teamcreation.html)
   - 8.31: [How should we present ourselves on the job market?](prompts/resume.html)
   - 9.05: How do we ensure a healthy, productive team?
