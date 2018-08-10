@@ -4,8 +4,8 @@ title: Project Progress Report
 exclude: true
 ---
 
-- **Written Report Due:** 10/16
-- **Presentations:** 10/16, 10/18
+- **Written Report Due:** 10/10
+- **Presentations:** 10/10, 10/12
 
 While we will frequently exchange information through weekly meetings over the course of the semester, two formal progress reports and presentations are required. Each report should include the following information (it does not need to be in this order):
 
@@ -24,12 +24,10 @@ While we will frequently exchange information through weekly meetings over the c
   - This may include _technical_ challenges related to the construction of your application, _communication_ challenges that are related to your client, or _team_ challenges that are related to your team-based processes (for example, keeping up with agile/scrum).
   - How are you planning on meeting those challenges? Make this as concrete as possible. For example 'work harder' isn't a concrete solution. Instead, tell me how you will enforce team accountability and transparency that directly results in productivity.
 
-
 - **Plan for the rest of the semester**
   - What are you focusing on now?
   - What are the critical points of potential failure? (What are you worried about?)
   - Given your current trajectory, when do you expect to complete an alpha version of your product?
-
 
 **Deliverables**
 - **Written Report:** The written report is expected 3-5 pages, single-spaced. Refer to our [writing rubric](../rubrics/writing.pdf)

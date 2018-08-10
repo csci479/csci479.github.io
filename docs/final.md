@@ -4,9 +4,9 @@ title: Final Presentation and Demonstration
 exclude: true
 ---
 
-**Presentation Date(s):** Friday, Monday in Class
-**Written Report Deadline:** 12/5, 3pm  
-**Public Demo Time (Optional:** 12/4, 12pm, Dana 132
+**Presentation Date(s):** TBA
+**Written Report Deadline:** 12/3, 3pm  
+**Public Demo Time (Optional):** TBA
 
 
 ## Final Project Report

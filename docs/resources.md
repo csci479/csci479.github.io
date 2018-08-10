@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Resources
-exclude: true
 ---
 
 ## Process resources
@@ -65,4 +64,4 @@ a quick and dirty set of guidelines to think about when creating a user interfac
 - [Awwwards:](http://www.awwwards.com/) awards for design, creativity, and innovation on the internet
 - [Niice:](https://niice.co/) sort of a more design focused pinterest site that can be used to create moodboards (and explore ones created by other people).
 - [muzli designers:](http://designers.muz.li/) browse the work by a number of designers
-- [From Up North:](https://fromupnorth.com/) trendy, curated design inspiration. 
+- [From Up North:](https://fromupnorth.com/) trendy, curated design inspiration.

@@ -4,9 +4,10 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 ---
+![alt text](figs/seniorDesign.png)
 
 # Computer Science: Design Project
-After 3 years at Bucknell, you've gained an extraordinary amount of technical knowledge. This is your opportunity to own a larger scale project from top to bottom. But more importantly, it's an opportunity to figure out a design process that you'll need for years after graduation. To that end, you will complete a semester-long project for an external client while applying and reflecting on software engineering processes.  
+After 3 years at Bucknell, you've gained an extraordinary amount of technical knowledge. This is your opportunity to own a larger scale project from top to bottom. But more importantly, it's an opportunity to figure out a design process that you'll need for years after graduation. To that end, you will complete a semester-long project for an external client while applying and reflecting on software engineering processes.
 
 - **Who:** [Prof. Evan Peck](http://www.eg.bucknell.edu/~emp017/)
 - **Where:** BRKI 165
