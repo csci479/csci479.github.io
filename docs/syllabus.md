@@ -8,6 +8,13 @@ title: Syllabus
 - **Phone:** 570-577-2345 (I prefer email!)
 - **Office Hours:** [See my calendar](http://www.eg.bucknell.edu/~emp017/calendar.html). Try to make it to my listed office hours _first_. If you have conflicts, look at my calendar and propose a couple of times that work for you.
 
+## Course Overview
+This is a project based course. You will develop a large piece of software using an agile software development process. The course meets three hours a week with a mix of lectures, collaborative learning activities, customer meetings, and team meetings.
+
+The instructor (and other customers) will propose projects for students to work with. Since we have only one semester to work on the projects, we will need to make a decision on the project in a short period of time, e.g., about two weeks. Teams of students can work on different projects.
+
+**Since this is a W-2 course, students are expected to have a substantial amount of writing.** During the semester, we will set a number of milestones (short term goals) for the project that each team needs to meet. These milestones can be in the forms of written papers, presentations, deliverable software components, among others.
+
 ### Course Outcomes
 Students will be able to...
 
@@ -22,15 +29,7 @@ CAC Student Outcomes Addressed:
 - CAC (d) An ability to function effectively on teams to accomplish a common goal
 - CAC (f) An ability to communicate effectively with a range of audiences
 
-### Course Structure
-
-This is a project based course. You will develop a large piece of software using an Agile software development process. The course meets three hours a week with a mix of lectures, collaborative learning activities, customer meetings, and team meetings.
-
-**Since this is a W-2 course, students are expected to have a substantial amount of writing.** During the semester, we will set a number of milestones (short term goals) for the project that each team needs to meet. These milestones can be in the forms of written papers, presentations, deliverable software components, among others.
-
-### The Project
-The instructor (and other customers) will propose projects for students to work with. Since we have only one semester to work on the projects, we will need to make a decision on the project in a short period of time, e.g., about two weeks. Teams of students can work on different projects.
-
+--------------
 ## Expected Work
 
 _The ultimate goal of this course is for student teams to design, implement, test, and release a piece of software. Though the final product is important, the process of reaching the goal is equally important._
@@ -56,12 +55,12 @@ We will employ an agile software development process. Students are expected to a
 
 - **Final Report and Presentation:** Each team will write a final report and make a final presentation about their project at a designated time.
 
-
-### Assessment
+--------------
+## Assessment
 - [This rubric](../rubrics/presentation.pdf) will be used to assess your presentations.
 - [This rubric](../rubrics/writing.pdf) will be used to assess your writings.
 
-## Grades
+### Grades
 - **Reflection Prompts:** 15%
 - **System Design Report & Presentation:** 8%
 - **Project Progress Report & Presentation:** 16%
@@ -70,10 +69,22 @@ We will employ an agile software development process. Students are expected to a
 - **Project Artifacts:** 15%
 - **Individual Reflection Paper:** 10%
 
--------
+--------------
+
+## Code of Conduct
+Professionally, we strongly adhere to [ACM's Code of Ethics](https://www.acm.org/code-of-ethics). Mores broadly, a course like CSCI 479 involves reflection, collaboration, and communication. We recognize that computer science has a checkered history with respect to inclusion - in corporate environments, in our classrooms, and in the products we create. As a result, *we strive to promote characteristics of transparency and inclusivity that reflect what we hope our field becomes* (and not necessarily what it has been or is now).
+
+Above all, **be kind.**
+
+We reject behavior that strays into harassment, no matter how mild. In this context, harassment refers to offensive verbal or written comments in reference to gender, sexual orientation, disability, physical appearance, race, or religion; sexual images in public spaces; deliberate intimidation, stalking following, harassing photography or recording, sustained disruption of class meetings, in appropriate physical contact, and unwelcome sexual attention.
+
+If you feel someone is violating these principles (for example, with a joke that could be interpreted as exist, racist, or exclusionary), **it is your responsibility to speak up!** If the behavior persists, send a private email to Prof. Peck to explain the situation.
+
+<sub>_(Portions of this code of conduct are adapted from Prof. Lorena A. Barba)_ </sub>
+
+--------------
 
 ### Accessibility
-
 Any student who needs an accommodation based on the impact of a disability should contact Heather Fowler, Director of the Office of Accessibility Resources at hf007@bucknell.edu, 570-577-1188 or in Room 212 Carnegie Building who will coordinate reasonable accommodations for students with documented disabilities.
 
 ### Basic Needs Security
