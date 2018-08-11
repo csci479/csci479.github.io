@@ -15,12 +15,8 @@ After 3 years at Bucknell, you've gained an extraordinary amount of technical kn
 
 ## Resources
 - [Syllabus](docs/syllabus.html)
-- [Resources (links)](docs/resources.html)
+- [Resources (links)](resources/resources.html)
 - [Course Slack](https://csci479fa18.slack.com/)
-
-<!-- - List of External Project Proposals (_TBA_)
-
-- [Team Formation Research Form](https://goo.gl/forms/IIc5Pp8znSGb5ifH3) \| _8/28_ -->
 
 
 ## Team Milestones
@@ -29,7 +25,7 @@ _Team Milestones should be committed to your repository in a reports folder_
 - [System Design Paper](docs/system.html) \| Overview: _9.12_ \| Report: _9.19_
 - [1st Progress Report](docs/progress.html) \| _10.10_
 - [2nd Progress Report](docs/progress.html) \| _10.31_
-- [Final Report and Presentation](docs/final.html) \| _12.03_
+- Final Report and Presentation \| _12.03_
 
 ## Individual Milestones
 _Individual work should be submitted in your individual Google Drive Folder_
@@ -40,9 +36,7 @@ _Individual work should be submitted in your individual Google Drive Folder_
   - 8.31: [How should we present ourselves on the job market?](prompts/resume.html)
   - 9.05: How do we ensure a healthy, productive team?
   - 9.26: Are we making the world better or worse?
-
-
-
+<br/><br/>
 - [Final (Individual) Reflection](docs/reflection.html) \| _End of finals period_
 
 

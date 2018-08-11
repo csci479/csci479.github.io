@@ -18,8 +18,9 @@ This process is simply to convey information to the rest of the class, it does
 _not_ have any impact on which project you will end up on.
 
 ### Then...
-
+You should know as much about the project as possible.
 _TODO_
 
 ### Finally...
-On Friday, we will sit in panels where students 
+On Friday, we will sit in panels in which the "experts" will answer questions
+(as best as possible)

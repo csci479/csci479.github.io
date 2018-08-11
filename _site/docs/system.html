@@ -6,7 +6,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>System Architecture and Design</title>
+  <title>System Design Document</title>
   <meta name="description" content="">
 
   <link rel="stylesheet" href="/assets/main.css">
@@ -66,17 +66,8 @@
           
             
             
-          
-            
-            
-          
-            
-            
-          
-            
-            
               
-              <a class="page-link" href="/docs/resources.html">Resources</a>
+              <a class="page-link" href="/resources/resources.html">Resources</a>
               
             
           
@@ -88,6 +79,9 @@
               
               <a class="page-link" href="/docs/syllabus.html">Syllabus</a>
               
+            
+          
+            
             
           
             
@@ -121,7 +115,7 @@
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 
   <header class="post-header">
-    <h1 class="post-title">System Architecture and Design</h1>
+    <h1 class="post-title">System Design Document</h1>
   </header>
   <div class="post-content">
     <ul>
@@ -132,35 +126,51 @@
 
 <p>Student teams will present to the class a system design for their project. In this stage, the team should provide details of the components and their interaction such as working with external files, accessing internal images, or communicating with entities over the internet. The exact architecture and design may evolve, but the team should be clear that they’d need the specified functionality. <strong>This will require significant coordination with your client</strong>.</p>
 
-<p>The overall design should include:</p>
 <ul>
-  <li><strong>An overview of the goals of your system</strong>
+  <li>First, read <a href="https://medium.freecodecamp.org/how-to-write-a-good-software-design-document-66fcf019569c">Angela Zhang’s article on “How to write a good software design doc”</a>. We’ll be following this model and I will borrow heavily from it here.</li>
+  <li>Second, read <a href="../resources/writingtips.html">this document that I’ve created with writing tips.</a></li>
+</ul>
+
+<p>Your team’s design doc should include:</p>
+<ul>
+  <li>
+    <p><strong>Title and People:</strong> name of the system, the authors, and the date it was last updated.</p>
+  </li>
+  <li>
+    <p><strong>Overview:</strong> give a <em>quick</em> summary of the problem, the client, and your proposed solution. Keep this short. You’ll go into more detail later on.</p>
+  </li>
+  <li>
+    <p><strong>Goals and Non-Goals:</strong> you might not be solving the problem entirely for all people, but you <em>will</em> be solving at least on piece of the problem well. Articulate what you are trying to accomplish and what is outside the scope of your project. What is the specific problem you are solving? Who, specifically, are you designing this for? What tasks are you planning to support?</p>
+  </li>
+  <li>
+    <p><strong>Current Solution:</strong> what does your client do now to achieve the functionality of the proposed system? What are the steps? Who are the users?</p>
+  </li>
+  <li><strong>Proposed Solution:</strong> This is will compose of most of your report.
     <ul>
-      <li>What are the specific problems it solves?</li>
-      <li>Who will be using your system?</li>
-      <li>What are the specific tasks you plan to support?</li>
-      <li><em>Note:</em> these shouldn’t simply be from the top of your head. You should have evidence from your client or more broadly from your problem domain that drives these decisions.</li>
+      <li><em>Interaction elements:</em>
+        <ul>
+          <li><a href="http://faculty.washington.edu/ajko/books/design-methods/how-to-prototype.html">Rough mockups of the screen (these can be sketches)</a></li>
+          <li>Feedback from your client about your mockups</li>
+          <li>A more polished mockup that gives a clearer direction for your user experience. Many aspects may change after this point: styling, information organization, etc. However, you should have used your prototypes as a method to validate the functionality of your project.
+<br /><br /></li>
+        </ul>
+      </li>
+      <li><em>Major technical components of the system:</em>
+        <ul>
+          <li>conceptual overview of your system that shows interaction between the major components (<em>for example, diagram that shows database, server, front-end</em>)</li>
+          <li>technical frameworks/platforms/languages for each major component (<em>for example, iOS, mongo, django, reactjs</em>). Include a rationale for <em>why</em> you made this decision.</li>
+          <li>other artifacts to show how the system might work together.
+<br /><br /></li>
+        </ul>
+      </li>
     </ul>
   </li>
-  <li><strong>Interaction elements:</strong>
-    <ul>
-      <li><a href="http://faculty.washington.edu/ajko/books/design-methods/how-to-prototype.html">Rough mockups of the screen (these can be sketches)</a></li>
-      <li>Feedback from your client about your mockups</li>
-      <li>A more polished mockup that gives a clearer direction for your user experience. Many aspects may change after this point: styling, information organization, etc. However, you should have used your prototypes as a method to validate the functionality of your project.</li>
-    </ul>
-  </li>
-  <li><strong>Major technical components of the system:</strong>
-    <ul>
-      <li>conceptual overview of your system that shows interaction between the major components (<em>for example, diagram that shows database, server, front-end</em>)</li>
-      <li>technical frameworks/platforms/languages for each major component (<em>for example, iOS, mongo, django, reactjs</em>). Include a rationale for <em>why</em> you made this decision.</li>
-      <li>other artifacts to show how the system might work together.</li>
-    </ul>
-  </li>
+  <li><strong>Milestones:</strong> see Angela’s article above. Realize that these are very rough estimates. I would encourage you to have a fully functioning prototype (even if it’s ugly) as soon as possible. Don’t pace yourself to fill the whole semester. Things <em>will</em> go wrong.</li>
 </ul>
 
 <p><strong>Deliverables:</strong></p>
 <ul>
-  <li><strong>One-Page Overview:</strong> You’ll bring a bullet-pointed one-page overview to class on 9/13 + rough sketches of your user interface ideas. We’ll use this period an opportunity to give technical feedback to each other - leveraging the vast set of skills and experiences that are represented by our entire senior class.</li>
+  <li><strong>One-Page Overview:</strong> You’ll bring a bullet-pointed one-page overview to class on 9/12 + rough sketches of your user interface ideas. We’ll use this period an opportunity to give technical feedback to each other - leveraging the vast set of skills and experiences that are represented by our entire senior class.</li>
   <li><strong>Written Report:</strong> The written report is expected 5-7 pages (2,000 to 2,500 words). Refer to our <a href="/rubrics/writing.pdf">writing rubric</a></li>
   <li><strong>Presentation:</strong> The presentation is expected to be 15 minute (10 minutes of presentation, 5 minutes of questions). That’s not much time! - so be clear in your communication and cover each of the major points listed above. Refer to our <a href="/rubrics/presentation.pdf">presentation rubric</a></li>
 </ul>
