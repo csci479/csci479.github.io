@@ -11,16 +11,22 @@ a quick assessment of the potential projects..._
 ### First...
 Make sure you have access to the list of projects + your information:
 - List of projects
-- List of assignments
+- List of student/project assignments
 
 You will be considered an "expert" for the project that you have been assigned.
 This process is simply to convey information to the rest of the class, it does
 _not_ have any impact on which project you will end up on.
 
 ### Then...
-You should know as much about the project as possible.
-_TODO_
+You should know as much about the project as possible. For your projects,
+create the following in _Google Slides_ (this will allow us to comment on the work by each other):
+
+- Overview. Give a _brief_ summary of what project. Try to just keep it one sentence if you can.
+- 2 potential  (or interesting points) to this project.
+- 2 potential obstacles/challenges to this project.
+- 2 different solutions.
+
+You'll put your slides in a shared Google Drive folder. Please name them using the following convention: `projectName_yourName`
 
 ### Finally...
-On Friday, we will sit in panels in which the "experts" will answer questions
-(as best as possible)
+On Monday, we will give rapid fire presentations (**only 2-3 minutes each!**) of all the projects, and then leave some time to comment and ask questions.

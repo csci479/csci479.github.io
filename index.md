@@ -31,10 +31,10 @@ _Team Milestones should be committed to your repository in a reports folder_
 _Individual work should be submitted in your individual Google Drive Folder_
 
 - Individual Reflection Prompts (all deadlines are at 8am):
-  - 8.24: [Rapid-fire assessment](prompts/projectassess.html)
-  - 8.27: [How do we form a good team?](prompts/teamcreation.html)
+  - 8.24: [How do we form a good team?](prompts/teamcreation.html)
+  - 8.27: [Rapid-fire assessment](prompts/projectassess.html)
   - 8.31: [How should we present ourselves on the job market?](prompts/resume.html)
-  - 9.05: How do we ensure a healthy, productive team?
+  - 9.05: [How do we ensure a healthy, productive team?](prompts/processes.html)
   - 9.26: Are we making the world better or worse?
 <br/><br/>
 - [Final (Individual) Reflection](docs/reflection.html) \| _End of finals period_
