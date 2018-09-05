@@ -39,6 +39,12 @@ _Individual work should be submitted in your individual Google Drive Folder_
 <br/><br/>
 - [Final (Individual) Reflection](docs/reflection.html) \| _End of finals period_
 
+## Guests
+We will occasionally have the opportunity to chat with professionals in a variety of positions via Google Hangouts. What you need to do:
+- Look up information about our guest, their company, and their role.
+- Submit a question on Slack for our guest **5pm the day before** their virtual visit.
+- **Before 8:30am** the morning of their call, indicate which current questions on Slack that you like (with emoji, a comment, etc.). We will ask the top 3-5 questions submitted.
+Your active participation in generating questions and being engaged during our conversations will contribute towards the _Participation_ portion of your grade.
 
 ## Schedule
 _Due to the seminar nature of this course, the second half of the semester is intentionally left open-ended to allow us to address issues that are of particular interest to the class_
