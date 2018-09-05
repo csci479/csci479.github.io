@@ -35,7 +35,6 @@ _Individual work should be submitted in your individual Google Drive Folder_
   - 8.27: [Rapid-fire assessment](prompts/projectassess.html)
   - 8.31: [How should we present ourselves on the job market?](prompts/resume.html)
   - 9.05: [How do we ensure a healthy, productive team?](prompts/processes.html)
-  - 9.26: Are we making the world better or worse?
 <br/><br/>
 - [Final (Individual) Reflection](docs/reflection.html) \| _End of finals period_
 
