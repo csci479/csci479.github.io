@@ -31,4 +31,13 @@ While we will frequently exchange information through weekly meetings over the c
 
 **Deliverables**
 - **Written Report:** The written report is expected 3-5 pages, single-spaced. Refer to our [writing rubric](../rubrics/writing.pdf)
-- **Presentation:** The presentation is expected to be 15 minutes long (10 minutes of presentation, 5 minutes of questions). That's not much time! - so be clear in your communication and cover each of the major points listed above. Refer to our [presentation rubric](../rubrics/presentation.pdf)
+- **Presentation:** Your two progress reports will be accompanied by two presentations.
+  1. Your first presentation will take place on Friday, October 12. It will be only *six* minutes long with time left for a question or two afterwards. This should focus on your _product_ and _client communication_. Do not spend time on your team processes for this presentation
+    - (Briefly) What is your project and who is your client?
+    - What is the current status of the project - have any of the goals changed? What feedback have you received back from your client?
+    - What are the technical or design challenges that threaten your progress (what are the critical points of failure)?
+    - When do you expect to complete an alpha version of your product (_show a burndown chart_)?
+
+  2. Your second presentation will take place on 10/31 and 11/02. This will be *10* minutes long with 5 minutes for questions. While this will include the questions above, it should also involve reflection about your _team processes_.
+
+  Refer to our [presentation rubric](../rubrics/presentation.pdf)
