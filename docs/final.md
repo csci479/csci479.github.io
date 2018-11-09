@@ -6,16 +6,16 @@ exclude: true
 
 **Presentation Date(s):** TBA
 **Written Report Deadline:** 12/3, 3pm  
-**Public Demo Time (Optional):** TBA
 
 
 ## Final Project Report
 Your final report is a summation of all the work that you have accomplished over the course of the semester. It should act as a standalone document. As a result, you may draw heavily from your previous reports in the class, including your system design and your progress reports. It is okay to duplicate information from those reports **as long as it is updated, accurate, and professional in quality**.
 
-A report of 7-10 pages that should include the following:
+A report of at least 7-10 pages that should include the following:
 
 - **Overview / Introduction**
   - An overview of the motivation behind your project
+    - What is the problem? Who is the client? Why is it hard/interesting?
   - An overview of your solution
 
 - **Project Description**
@@ -37,7 +37,7 @@ A report of 7-10 pages that should include the following:
   - Given more time, what are ways that your application could be improved (if any)?
   - A good wrap-up paragraph or two that summarizes your project.
 
-This is your final product and it should reflect the professional style and structure that we have been shooting for over the course of this semester! I would _heavily_ encourage you to use the Overleaf template that is linked to from our shared Drive folder (or a similarly styled professional template).
+This is your final product and it should reflect the professional style and structure that we have been shooting for over the course of this semester! I would _heavily_ encourage you to use the Overleaf template (or a similarly styled professional template). I will also allow a web-based format if you would like to develop it for showing off to future employers (for example, Wordpress or Medium). However, I will maintain the same styling expectations.
 
 ### Team Presentation
 The team presentation should aim at faculty and students who have sufficient computing experiences. The presentation should contain the following points and should be **no more than 15 minutes**. There is no lower limit on your presentation time.
@@ -88,5 +88,8 @@ You'll also need a decent video editor to put together sight and sound.
 ### Deliverables
 - A PDF of your written report
 - A PDF (or PPT file) or your final presentation
-- Final project source code in a zip format, generated from your repository. A link to your repository.
+- Final project source code in a zip format, generated from your repository.
 - 1-3 minute demo video. Raw movie file should be uploaded to Drive Folder. In addition, the video should be uploaded to an accessible platform (YouTube, Vimeo link).
+- A README that includes:
+  - A video link to your demo from an accessible platform (YouTube, Vimeo). If you are uncomfortable with publicizing your product, you may generate a private link
+  - A link to your repository (I should have permission to at least view it). 

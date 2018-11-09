@@ -25,7 +25,7 @@ _Team Milestones should be committed to your repository in a reports folder_
 - [System Design Paper](docs/system.html) \| Overview: _9.12_ \| Report: _9.19_
 - [1st Progress Report](docs/progress.html) \| _10.10_
 - [2nd Progress Report](docs/progress.html) \| _10.31_
-- Final Report and Presentation \| _12.03_
+- [Final Report and Presentation](docs/final.html) \| _12.03_
 
 ## Individual Milestones
 _Individual work should be submitted in your individual Google Drive Folder_
