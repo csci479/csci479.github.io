@@ -38,7 +38,7 @@ a quick and dirty set of guidelines to think about when creating a user interfac
 - [Color Oracle:](http://colororacle.org/) a free color blindness simulator for Windows, Mac, and Linux
 - [LOLColors:](http://www.lolcolors.com/) curated color palette inspiration
 - [Fontpair:](http://fontpair.co/) collection of fonts that go well together.
-- [Beautiful Web Type:](http://hellohappy.org/beautiful-web-type/) showcases the most beautiful fonts from Google's free WebFonts collection
+- [Beautiful Web Type:](https://beautifulwebtype.com) showcases the most beautiful fonts from Google's free WebFonts collection
 - [Subtle Patterns:](http://subtlepatterns.com/) a great collection of unobtrusive background patterns for a website.
 - [icons8:](https://icons8.com/) huge collection of icons.
 - [Noun Project:](https://thenounproject.com/) enormous collection of well-designed icons. Many are free (at least with attribution).
