@@ -19,14 +19,14 @@ Before you continue, make sure you familiarize yourself with the agile processes
 - [The Beginner's Guide to Scrum and Agile Project Management](https://blog.trello.com/beginners-guide-scrum-and-agile-project-management)
 - [A Pretty Good Summary of Lean, Agile, Scrum](https://medium.com/@takeshi.yoshida/a-pretty-good-summary-of-lean-agile-scrum-168cf123748)
 
-Spend some time coming up with the structural mechanisms by which your team will operate. Andy Ko’s _Cooperative Software Development_ has a fantastic summary of the research and practices surrounding effectives teams. Look over at least two of the following:
+Spend some time coming up with the structural mechanisms by which your team will operate. Amy Ko’s _Cooperative Software Development_ has a fantastic summary of the research and practices surrounding effectives teams. Look over at least two of the following:
 - [Communication](http://faculty.washington.edu/ajko/books/cooperative-software-development/communication.html)
 - [Productivity](http://faculty.washington.edu/ajko/books/cooperative-software-development/productivity.html)
 - [Process](http://faculty.washington.edu/ajko/books/cooperative-software-development/process.html)
 - [The Discipline of Teams (by Katzenbach and Smith)](https://courses.cs.washington.edu/courses/cse440/15au/readings/DisciplineOfTeams-KatzenbachSmith.htm)
 
 Once you have a good sense of what makes an effective team, answer the following questions in 1 page. You may use bullet points if you'd like:
-- Come up with a **COMMUNICATION** plan that involves _knowledge-sharing tools_ (from Andy Ko article on communication). _How will you communicate? How often?_
+- Come up with a **COMMUNICATION** plan that involves _knowledge-sharing tools_ (from Amy Ko article on communication). _How will you communicate? How often?_
 <br/><br/>
 - Come up with a plan to reduce Sedano's _taxonomy of waste_ to make sure that your team is **PRODUCTIVE**. _What tools will you use? Who is responsible for what?_
 <br/><br/>

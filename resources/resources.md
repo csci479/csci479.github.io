@@ -4,7 +4,7 @@ title: Resources
 ---
 
 ## Process resources
-- [Cooperative Software Design (by Andy Ko)](http://faculty.washington.edu/ajko/books/cooperative-software-development/)
+- [Cooperative Software Design (by Amy Ko)](http://faculty.washington.edu/ajko/books/cooperative-software-development/)
 - [What Google Learned From Its Quest to Build the Perfect Team](https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html?mcubz=3&_r=0)
 - [The Discipline of Teams](https://courses.cs.washington.edu/courses/cse440/15au/readings/DisciplineOfTeams-KatzenbachSmith.htm)
 - [The Beginner's Guide to Scrum and Agile Project Management](https://blog.trello.com/beginners-guide-scrum-and-agile-project-management)
@@ -23,7 +23,7 @@ title: Resources
 - [Google Design Resources:](https://design.google/resources/) big repository of all kinds of design resources from Google
 - [How to Conduct a Heuristic Evaluation:](https://www.interaction-design.org/literature/article/heuristic-evaluation-how-to-conduct-a-heuristic-evaluation?utm_source=facebook&utm_medium=sm)
 a quick and dirty set of guidelines to think about when creating a user interfaces
-- [Design Methods (by Andy Ko):](http://faculty.washington.edu/ajko/books/design-methods/)
+- [Design Methods (by Amy Ko):](http://faculty.washington.edu/ajko/books/design-methods/)
 
 #### Tips on Writing for Usability
 - [How we _really_ use the Web (from "Don't Make Me Think"):](http://www.sensible.com/chapter.html) what do people look for when they read online?
