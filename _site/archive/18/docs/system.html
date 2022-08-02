@@ -6,11 +6,11 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>Ethical Thinking</title>
+  <title>System Design Document</title>
   <meta name="description" content="">
 
   <link rel="stylesheet" href="/assets/main.css">
-  <link rel="canonical" href="http://localhost:4000/prompts/ethics.html">
+  <link rel="canonical" href="http://localhost:4000/archive/18/docs/system.html">
   <link rel="alternate" type="application/rss+xml" title="CSCI479-FA22" href="/feed.xml">
   
   
@@ -155,29 +155,65 @@
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 
   <header class="post-header">
-    <h1 class="post-title">Ethical Thinking</h1>
+    <h1 class="post-title">System Design Document</h1>
   </header>
   <div class="post-content">
-    <p><em>This prompt should be approximately 1 page single-spaced in Google Docs. They should have subheadings, your name, and be completed by the date on the homepage</em></p>
-
-<h3 id="resources-to-read">Resources to Read</h3>
-<ul>
-  <li>Look over <a href="https://www.acm.org/code-of-ethics">ACM’s 2018 Code of Ethics</a></li>
-  <li>1 Page poster on <a href="https://www.scu.edu/ethics/ethics-resources/ethical-decision-making/ethical-decision-making-poster/">Ethical Decision Making</a></li>
-  <li>Many of you will be in leadership positions in the future, read this infographic on <a href="https://www.scu.edu/media/ethics-center/ethical-decision-making/MARK_0418_EthicalLeadershipInfographic-(3).pdf">The Practice of Ethical Leadership</a></li>
+    <ul>
+  <li><strong>One-Page Overview:</strong> 9/12 (bring to class)</li>
+  <li><strong>Written Report Due:</strong> 9/19</li>
+  <li><strong>Presentations:</strong> 9/19, 9/21</li>
 </ul>
 
-<h3 id="then">Then…</h3>
-<p>In <code class="highlighter-rouge">Resources</code> directory of our <code class="highlighter-rouge">479_Public</code> Drive folder, look over the reflective prompts in <code class="highlighter-rouge">tarot_cards_of_tech.pdf</code></p>
+<p>Student teams will present to the class a system design for their project. In this stage, the team should provide details of the components and their interaction such as working with external files, accessing internal images, or communicating with entities over the internet. The exact architecture and design may evolve, but the team should be clear that they’d need the specified functionality. <strong>This will require significant coordination with your client</strong>.</p>
 
-<p>You will be thinking through ethical blind spots in 2 <em>other</em> projects in the class.</p>
 <ul>
-  <li>On Slack, list your name under 2 projects</li>
-  <li>For each project, answer the prompts of at least 2 of the tarot cards. Many of them may not apply,  but I encourage you to really reflect on what <em>could</em> happen if someone was really bent on abusing your technology (what would the writers of <em>Black Mirror</em> do with your project?)</li>
+  <li>First, read <a href="https://medium.freecodecamp.org/how-to-write-a-good-software-design-document-66fcf019569c">Angela Zhang’s article on “How to write a good software design doc”</a>. We’ll be following this model and I will borrow heavily from it here.</li>
+  <li>Second, read <a href="../resources/writingtips.html">this document that I’ve created with writing tips.</a></li>
 </ul>
 
-<h3 id="finally">Finally</h3>
-<p>On Friday, we will have mini-panels thinking through how the technology we’re building could potentially be abused.</p>
+<p>Your team’s design doc should include:</p>
+<ul>
+  <li>
+    <p><strong>Title and People:</strong> name of the system, the authors, and the date it was last updated.</p>
+  </li>
+  <li>
+    <p><strong>Overview:</strong> give a <em>quick</em> summary of the problem, the client, and your proposed solution. Keep this short. You’ll go into more detail later on.</p>
+  </li>
+  <li>
+    <p><strong>Goals and Non-Goals:</strong> you might not be solving the problem entirely for all people, but you <em>will</em> be solving at least on piece of the problem well. Articulate what you are trying to accomplish and what is outside the scope of your project. What is the specific problem you are solving? Who, specifically, are you designing this for? What tasks are you planning to support?</p>
+  </li>
+  <li>
+    <p><strong>Current Solution:</strong> what does your client do now to achieve the functionality of the proposed system? What are the steps? Who are the users?</p>
+  </li>
+  <li><strong>Proposed Solution:</strong> This is will compose of most of your report.
+    <ul>
+      <li><em>Interaction elements:</em>
+        <ul>
+          <li><a href="http://faculty.washington.edu/ajko/books/design-methods/how-to-prototype.html">Rough mockups of the screen (these can be sketches)</a></li>
+          <li>Feedback from your client about your mockups</li>
+          <li>A more polished mockup that gives a clearer direction for your user experience. Many aspects may change after this point: styling, information organization, etc. However, you should have used your prototypes as a method to validate the functionality of your project.
+<br /><br /></li>
+        </ul>
+      </li>
+      <li><em>Major technical components of the system:</em>
+        <ul>
+          <li>conceptual overview of your system that shows interaction between the major components (<em>for example, diagram that shows database, server, front-end</em>)</li>
+          <li>technical frameworks/platforms/languages for each major component (<em>for example, iOS, mongo, django, reactjs</em>). Include a rationale for <em>why</em> you made this decision.</li>
+          <li>other artifacts to show how the system might work together.
+<br /><br /></li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li><strong>Milestones:</strong> see Angela’s article above. Realize that these are very rough estimates. I would encourage you to have a fully functioning prototype (even if it’s ugly) as soon as possible. Don’t pace yourself to fill the whole semester. Things <em>will</em> go wrong.</li>
+</ul>
+
+<p><strong>Deliverables:</strong></p>
+<ul>
+  <li><strong>One-Page Overview:</strong> You’ll bring a bullet-pointed one-page overview to class on 9/12 + rough sketches of your user interface ideas. We’ll use this period an opportunity to give technical feedback to each other - leveraging the vast set of skills and experiences that are represented by our entire senior class.</li>
+  <li><strong>Written Report:</strong> The written report is expected 5-7 pages (2,000 to 2,500 words). Refer to our <a href="../rubrics/writing.pdf">writing rubric</a></li>
+  <li><strong>Presentation:</strong> The presentation is expected to be 15 minute (10 minutes of presentation, 5 minutes of questions). That’s not much time! - so be clear in your communication and cover each of the major points listed above. Refer to our <a href="../rubrics/presentation.pdf">presentation rubric</a></li>
+</ul>
 
   </div>
 
