@@ -2,18 +2,16 @@
 layout: page
 title: Syllabus
 ---
-<link rel="stylesheet" href="../cspui.css">
 
-- **Instructor:** [Prof. Evan M. Peck](https://evanpeck.github.io/)
+- **Instructor:** [Evan M. Peck](http://www.eg.bucknell.edu/~emp017)
 - **Office:** Dana 334
-- **Email:** evan.peck@bucknell.edu
-- **Office Phone:** 570-577-2345 
-- **How to meet with me:** If I'm not in my office with the door open, the best way to schedule a meeting is to [visit my website](https://evanpeck.github.io/) and click the `Meet with Me` button. 
+- **Phone:** 570-577-2345 (I prefer email!)
+- **Office Hours:** [See my calendar](http://www.eg.bucknell.edu/~emp017/calendar.html). Try to make it to my listed office hours _first_. If you have conflicts, look at my calendar and propose a couple of times that work for you.
 
 ## Course Overview
-This is a project-based course. You will develop a large piece of software using an agile software development process. The course meets three hours a week with a mix of lectures, collaborative learning activities, customer meetings, and team meetings.
+This is a project based course. You will develop a large piece of software using an agile software development process. The course meets three hours a week with a mix of lectures, collaborative learning activities, customer meetings, and team meetings.
 
-Clients from both the community and from industry will propose projects for students to work with. Since we have only one semester to work on the projects, we will need to make a decision on the project in a short period of time, e.g., about two weeks. Teams of students can work on different projects.
+The instructor (and other customers) will propose projects for students to work with. Since we have only one semester to work on the projects, we will need to make a decision on the project in a short period of time, e.g., about two weeks. Teams of students can work on different projects.
 
 **Since this is a W-2 course, students are expected to have a substantial amount of writing.** During the semester, we will set a number of milestones (short term goals) for the project that each team needs to meet. These milestones can be in the forms of written papers, presentations, deliverable software components, among others.
 
@@ -47,14 +45,11 @@ We will employ an agile software development process. Students are expected to a
 
 
 ### Group Responsibilities
-- **Asessing their success as a team:** A number of tasks throughout the semester, including the final project, will be completed in teams. Contribution to team work is an essential part of the course. Team work includes design, coding, testing, writing, technical presentations, and research. To assess how teams are working together, we will use a survey to collect data. 
+- **Team assessment:** A number of tasks throughout the semester, including the final project, will be completed in teams. Contribution to team work is an essential part of the course. Team work includes design, coding, testing, writing, technical presentations, and research. To assess how teams are working together, we will use a survey to collect data. The goal of the survey is not necessarily to assign grades for each team member. Rather the survey is used to gauge how the team is doing and to see which areas the team can improve. _Note: If there are consistent, significant problems with a team member, the instructor may re-weight other dimensions of their final grade to reflect their contribution_
 
-**If there are consistent problems with a team member**, the instructor will re-weight other dimensions of their final grade to reflect their contribution
-{: .notice .notice-red}
+- **Product backlog and sprint backlog:** Each team will maintain a _Product Backlog_ and a _Sprint Backlog_. While the format of Product Backlog and Sprint Backlog varies greatly, we will pick a simple, yet effective one to use. The backlogs should be updated regularly to reflect the product progress and team work.
 
-- **Following _agile_ processes and artifacts:** Each team will maintain a _Product Backlog_ and a _Sprint Backlog_. While the format of Product Backlog and Sprint Backlog varies greatly, we will pick a simple, yet effective one to use. The backlogs should be updated regularly to reflect the product progress and team work.
-
-- **Designing and presenting the architecture of their system:** Student teams will present to the class a system architecture. The overall design should include major components of the system, interaction among the major components, snapshots of screens, user interfaces, and other artifacts to show how the system might work together.
+- **System architecture and overall design:** Student teams will present to the class a system architecture. The overall design should include major components of the system, interaction among the major components, snapshots of screens, user interfaces, and other artifacts to show how the system might work together.
 
 - **Project progress reports and presentations:** While we will exchange information about the project at each of our meetings, two formal progress reports and presentations are required during the semester.
 
@@ -90,7 +85,7 @@ If you feel someone is violating these principles (for example, with a joke that
 --------------
 
 ### Accessibility
-If you have a disability and think you may need an accommodation, I encourage you to contact the Office of Accessibility Resources (OAR) at 570-577-1188 or `OAR@bucknell.edu`. The OAR is here to help and will work with you to determine appropriate accommodations. If accommodations are needed, the OAR will communicate those to me through a Letter of Accommodation. I will not be given information about the nature of your disability, only the accommodations you need. I will treat any information I receive as private and confidential. Please visit [https://www.bucknell.edu/Accessibility](https://www.bucknell.edu/Accessibility) for more information about the OAR.
+Any student who needs an accommodation based on the impact of a disability should contact Heather Fowler, Director of the Office of Accessibility Resources at hf007@bucknell.edu, 570-577-1188 or in Room 212 Carnegie Building who will coordinate reasonable accommodations for students with documented disabilities.
 
 ### Basic Needs Security
-Any student who has difficulty affording groceries or accessing sufficient food to eat every day, or who lacks a safe and stable place to live, and believes this may affect their performance in the course, is urged to contact the Dean of Students for support. If you are comfortable in doing so, you can (optionally!) let me know so that I can advocate on your behalf and provide you with the support structures that I can access. 
+Any student who has difficulty affording groceries or accessing sufficient food to eat every day, or who lacks a safe and stable place to live, and believes this may affect their performance in the course, is urged to contact the Dean of Students for support. Furthermore, please notify the professor if you are comfortable in doing so. This will enable him to provide any resources that he may possess.
