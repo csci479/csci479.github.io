@@ -4,11 +4,9 @@ title: On Technical Writing
 exclude: true
 ---
 
-**Great work is worthless without writing:** Leslie Lamport, 2013 of the Turing Award (the Nobel Prize of Computer Science), spent most of his 2017 commencement address at Brandeis pleading with students for better communication:
+**Great work is worthless without writing:** Leslie Lamport, 2013 of the Turing Award (the Nobel Prize of Computer Science), spent most of his 2017 commencement address at Brandeis pleading with students for better communication.
 
 > If you succeed in attaining a position that allows you to do something great, if you do something that really is great, and if you realize that it’s great, there’s still one more hurdle: You have to convince others that it’s great. This will require writing.
-
-### Writing Advice
 
 **Simply put:** if you are bad at writing or communicating your ideas, your ideas don’t matter. **So, what is clear, effective, technical communication?**
 
@@ -45,19 +43,3 @@ exclude: true
   - _COHERENCE:_ In a coherent passage, choose subjects that refer to a consistent set of related concepts.
   - _PARALLEL STRUCTURE:_ order your text so your reader can easily see how related concepts are different and how they are similar
   - _ABSTRACT:_ In an abstract (or overview), don’t enumerate a list of topics covered; instead, convey the essential information found in your paper.
-
-### Writing Checklist
-
-A successful document... 
-- Uses terminology—including abbreviations and acronyms—consistently.
-- Avoids ambiguous pronouns (an 'it' that is not clear)
-- Uses active voice
-- Avoids long, complex sentences in favor of short, clearer sentences.
-- Uses bullet and numbered lists appropriately
-- Focuses each paragraph on a single topic
-- States key points at the start of each document
-- Identifies a target audience and caters definitions/explanations to that audience
-- Avoids idioms
-- States the document's scope, goals, and prerequisite knowledge
-- Breaks long topics into appropriate sections
-- Uses captioned, well-designed images to focus reader attention

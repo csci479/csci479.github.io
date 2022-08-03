@@ -8,10 +8,10 @@ There are two portions to this reflection. It's a little more time-intensive, bu
 - *Individual:* You will read and reflect on software engineering team processes and management.
 - *Team:* You will come up with a 1-page process plan that includes roles of individuals, processes you'll adhere to, and platforms you'll use to support those processes.
 
-In CSCI 205, some students didn’t have a good experience with agile processes. But you should reflect on how this project environment is different. You are working with an external client. That means that you could have changing and/or unstable requirements. It also means that the scale of your project is larger, with more complex moving parts.
+In CSCI 205, some students didn’t have a good experience with agile. But you should reflect on how this project environment is different. You are working with an external client. That means that you could have changing and/or unstable requirements. It also means that the scale of your project is larger, with more complex moving parts.
 _This is up to you._
 
-A key point of this semester is that I’m not going to dictate precisely how you are to operate (more give you a framing). However, I do expect significant reflection and action surrounding your processes. This is your opportunity to experiment with professional processes for productivity.
+A key point of this semester is that I’m not going to dictate precisely how you are to operate (more give you a framing). However, I do expect significant reflection and action surrounding your processes. This is your opportunity to really buy into professional processes for productivity.
 
 ### Individually (09.05)
 
@@ -25,7 +25,7 @@ Spend some time coming up with the structural mechanisms by which your team will
 - [Process](http://faculty.washington.edu/ajko/books/cooperative-software-development/process.html)
 - [The Discipline of Teams (by Katzenbach and Smith)](https://courses.cs.washington.edu/courses/cse440/15au/readings/DisciplineOfTeams-KatzenbachSmith.htm)
 
-Once you have a good sense of what makes an effective team, **individually** answer the following questions in 1 page. You may use bullet points if you'd like:
+Once you have a good sense of what makes an effective team, answer the following questions in 1 page. You may use bullet points if you'd like:
 - Come up with a **COMMUNICATION** plan that involves _knowledge-sharing tools_ (from Amy Ko article on communication). _How will you communicate? How often?_
 <br/><br/>
 - Come up with a plan to reduce Sedano's _taxonomy of waste_ to make sure that your team is **PRODUCTIVE**. _What tools will you use? Who is responsible for what?_

@@ -20,21 +20,22 @@ Clients from both the community and from industry will propose projects for stud
 ### Course Outcomes
 Students will be able to...
 
-- function effectively in a project team (CAC d);
-- use knowledge from previous courses in designing, implementing, and evaluating a culminating computing project (CAC b,c);
-- organize, write, and deliver technical written document(s) and oral presentation(s) about the project (CAC f).
+- function effectively in a project team (CAC 5);
+- use knowledge from previous courses in designing, implementing, and evaluating a culminating computing project (CAC 1, 2);
+- organize, write, and deliver technical written document(s) and oral presentation(s) about the project (CAC 3).
 
-CAC Student Outcomes Addressed:
+<!-- CAC Student Outcomes Addressed:
 
-- CAC (b) An ability to analyze a problem, and identify and define the computing requirements appropriate to its solution
-- CAC (c) An ability to design, implement, and evaluate a computer-based system, process, component, or program to meet desired needs
-- CAC (d) An ability to function effectively on teams to accomplish a common goal
-- CAC (f) An ability to communicate effectively with a range of audiences
+- CAC (1): Analyze a complex computing problem and to apply principles of computing and other relevant disciplines to identify solutions.
+- CAC (2) Design, implement, and evaluate a computing-based solution to meet a given set of computing requirements in the context of the program’s discipline.
+- CAC (3): Communicate effectively in a variety of professional contexts.
+- CAC (5): Function effectively as a member or leader of a team engaged in activities appropriate to the program’s discipline. -->
 
 --------------
 ## Expected Work
 
 _The ultimate goal of this course is for student teams to design, implement, test, and release a piece of software. Though the final product is important, the process of reaching the goal is equally important._
+{: .notice .notice-blue}
 
 We will employ an agile software development process. Students are expected to accomplish a number of tasks in producing the software.
 
@@ -47,10 +48,8 @@ We will employ an agile software development process. Students are expected to a
 
 
 ### Group Responsibilities
-- **Asessing their success as a team:** A number of tasks throughout the semester, including the final project, will be completed in teams. Contribution to team work is an essential part of the course. Team work includes design, coding, testing, writing, technical presentations, and research. To assess how teams are working together, we will use a survey to collect data. 
 
-**If there are consistent problems with a team member**, the instructor will re-weight other dimensions of their final grade to reflect their contribution
-{: .notice .notice-red}
+- **Asessing their success as a team:** A number of tasks throughout the semester, including the final project, will be completed in teams. Contribution to team work is an essential part of the course. Team work includes design, coding, testing, writing, technical presentations, and research. To assess how teams are working together, we will use a survey to collect data. 
 
 - **Following _agile_ processes and artifacts:** Each team will maintain a _Product Backlog_ and a _Sprint Backlog_. While the format of Product Backlog and Sprint Backlog varies greatly, we will pick a simple, yet effective one to use. The backlogs should be updated regularly to reflect the product progress and team work.
 
@@ -59,6 +58,9 @@ We will employ an agile software development process. Students are expected to a
 - **Project progress reports and presentations:** While we will exchange information about the project at each of our meetings, two formal progress reports and presentations are required during the semester.
 
 - **Final Report and Presentation:** Each team will write a final report and make a final presentation about their project at a designated time.
+
+**If there are problems with a team member**, the instructor may re-weight  dimensions of team grades (positively or negatively) to reflect uneven contributions. However, it is each team's collective responsibility to work towards processes of respect, transparency, accountability, and documentation to help mitigate these instances. 
+{: .notice .notice-red}
 
 --------------
 ## Assessment
@@ -77,13 +79,13 @@ We will employ an agile software development process. Students are expected to a
 --------------
 
 ## Code of Conduct
-Professionally, we strongly adhere to [ACM's Code of Ethics](https://www.acm.org/code-of-ethics). More broadly, a course like CSCI 479 involves reflection, collaboration, and communication. We recognize that computer science has a checkered history with respect to inclusion - in corporate environments, in our classrooms, and in the products we create. As a result, *we strive to promote characteristics of transparency and inclusivity that reflect what we hope our field becomes* (and not necessarily what it has been or is now).
+A course like CSCI 479 involves reflection, collaboration, and communication. Computer science has a checkered history with respect to inclusion - in corporate environments, in our classrooms, and in the products we create. As a result, *we strive to promote characteristics of transparency and inclusivity that reflect what we hope our field becomes* (and not necessarily what it has been or is now).
 
-Above all, **be kind.**
+We reject behavior that explicitly strays into harassment. In this context, harassment refers to offensive verbal or written comments in reference to gender, sexual orientation, disability, physical appearance, race, or religion; sexual images in public spaces; deliberate intimidation, stalking following, harassing photography or recording, sustained disruption of class meetings, inappropriate physical contact, and unwelcome sexual attention.
 
-We reject behavior that strays into harassment, no matter how mild. In this context, harassment refers to offensive verbal or written comments in reference to gender, sexual orientation, disability, physical appearance, race, or religion; sexual images in public spaces; deliberate intimidation, stalking following, harassing photography or recording, sustained disruption of class meetings, in appropriate physical contact, and unwelcome sexual attention.
+We also reject more implicit forms of exclusion and devaluing, such as ignoring a group member's input or communication, making assumptions about technical ability or interest (which frequently manifests along dimensions of gender and race), or devaluing the contributions of peers. 
 
-If you feel someone is violating these principles (for example, with a joke that could be interpreted as exist, racist, or exclusionary), **it is your responsibility to speak up!** If the behavior persists, send a private email to Prof. Peck to explain the situation.
+If you feel someone is violating these principles (for example, with a joke that could be interpreted as sexist, racist, or exclusionary), **don't be a bystander!** If the behavior persists, send a private email to Prof. Peck to explain the situation.
 
 <sub>_(Portions of this code of conduct are adapted from Prof. Lorena A. Barba)_ </sub>
 

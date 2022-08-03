@@ -6,7 +6,7 @@ exclude: true
 
 - **One-Page Overview:** 9/12 (bring to class)
 - **Written Report Due:** 9/19
-- **Presentations:** 9/19, 9/21
+- **Presentations:** 9/21
 
 Student teams will present to the class a system design for their project. In this stage, the team should provide details of the components and their interaction such as working with external files, accessing internal images, or communicating with entities over the internet. The exact architecture and design may evolve, but the team should be clear that they'd need the specified functionality. **This will require significant coordination with your client**.
 
@@ -31,7 +31,7 @@ Your team's design doc should include:
   - *Major technical components of the system:*
     - conceptual overview of your system that shows interaction between the major components (_for example, diagram that shows database, server, front-end_)
     - technical frameworks/platforms/languages for each major component (_for example, iOS, mongo, django, reactjs_). Include a rationale for _why_ you made this decision.
-    - other artifacts to show how the system might work together.
+    - other artifacts to show how the system might work together
 <br/><br/>
 
 - **Milestones:** see Angela's article above. Realize that these are very rough estimates. I would encourage you to have a fully functioning prototype (even if it's ugly) as soon as possible. Don't pace yourself to fill the whole semester. Things _will_ go wrong.

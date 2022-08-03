@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Syllabus
+exclude: true
 ---
 
 - **Instructor:** [Evan M. Peck](http://www.eg.bucknell.edu/~emp017)
