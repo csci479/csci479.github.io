@@ -9,9 +9,9 @@ layout: home
 After 3 years at Bucknell, you've gained an extraordinary amount of technical knowledge. This is your opportunity to own a larger scale project from top to bottom. But more importantly, it's an opportunity to figure out a design process that you'll need for years after graduation. To that end, you will complete a semester-long project for an external client while applying and reflecting on software engineering processes.  
 
 - **Who:** [Prof. Evan Peck](http://www.eg.bucknell.edu/~emp017/)
-- **Where and When:** 
-  - DANA 117, MWF 1-1:50pm
-  - BRKI 166, MWF 2-2:50pm
+- **Where and When:** There are 2 sections of this course. 
+  - `DANA 117, MWF 1-1:50pm`
+  - `BRKI 166, MWF 2-2:50pm`
 
 ## >> Quick Links
 - [Syllabus](docs/syllabus)
@@ -22,16 +22,17 @@ After 3 years at Bucknell, you've gained an extraordinary amount of technical kn
 📣 Team Milestones should be committed to your repository in a reports folder
 {: .notice .notice-blue}
 
-- [System Design Paper](docs/system) \| Overview: _9.12_ \| Report: _9.21_
-- [1st Progress Report](docs/progress) \| _10.10_
-- [2nd Progress Report](docs/progress) \| _10.31_
-- [Final Report and Presentation](docs/final) \| _12.03_
+- System Design Paper \| Overview: _9.12_ \| Report: _9.21_
+- 1st Progress Report \| _TBA_
+- 2nd Progress Report \| _TBA_
+- Final Report and Presentation \| _TBA_
 
 ## >> 🧑 Individual Milestones
-📣 Individual work should be submitted in your individual Google Drive Folder
+📣 Individual work should be submitted via Google Classroom assignment links
 {: .notice .notice-blue}
 
 - Individual Reflection Prompts (all deadlines are at 8am):
+  - 
   - 8.24: [How do we form a good team?](prompts/teamcreation)
   - 8.27: [Rapid-fire assessment](prompts/projectassess)
   - 8.31: [How should we present ourselves on the job market?](prompts/resume)
