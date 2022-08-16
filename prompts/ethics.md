@@ -12,7 +12,7 @@ _This prompt should be approximately 1 page single-spaced in Google Docs. They s
 - Many of you will be in leadership positions in the future, read this infographic on [The Practice of Ethical Leadership](https://www.scu.edu/media/ethics-center/ethical-decision-making/MARK_0418_EthicalLeadershipInfographic-(3).pdf)
 
 ### Then...
-In `Resources` directory of our `479_Public` Drive folder, look over the reflective prompts in `tarot_cards_of_tech.pdf`
+On Google Classroom, `479_Public` Drive folder, look over the reflective prompts in `tarot_cards_of_tech.pdf`
 
 You will be thinking through ethical blind spots in 2 _other_ projects in the class.
 - On Slack, list your name under 2 projects
