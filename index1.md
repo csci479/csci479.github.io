@@ -26,7 +26,7 @@ After 3 years at Bucknell, you've gained an extraordinary amount of technical kn
   - 8.24: What do we want to get out of this course? _See Google Classroom_
   - 8.26: Rapid-fire assessment
   - 8.29: How do we form a good team? 
-  - 9.02: How do we ensurey a healthy, productive team? 
+  - 9.02: How do we ensure a healthy, productive team? 
   - _Upcoming topics: technical writing, ethics & social impact, code reviewing & reliability_
 
   <!-- - 8.26: [Rapid-fire assessment](prompts/projectassess)
@@ -55,7 +55,7 @@ Your active participation in generating questions and being engaged during our c
 - Final Report and Presentation \| _TBA_
 
 ## >> 🗓️ Schedule
-📣 Due to the seminar nature of this course, the second half of the semester is intentionally left open-ended to allow us to address issues that are of particular interest to the class
+📣 Due to the seminar nature of this course, the second half of the semester is intentionally left open-ended to allow us to address issues that are of particular interest and/or need to the class
 {: .notice .notice-blue}
 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT3YZYNHB0UfEEfzZsw-h7HYV2c8Cw7ssXUXovTQZWTtYrKFzgr6bIYlKF8yN6K7sbm2JTUhm1gzbh_/pubhtml?gid=263478748&amp;single=true&amp;widget=false&amp;headers=false&amp;range=a1:f47&amp;chrome=false" style="width:100%;height:550px;"></iframe>

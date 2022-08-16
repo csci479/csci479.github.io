@@ -5,8 +5,7 @@ exclude: true
 ---
 
 - **One-Page Overview:** 9/12 (bring to class)
-- **Written Report Due:** 9/19
-- **Presentations:** 9/21
+- **Written Report and Presentations:** 9/19
 
 Student teams will present to the class a system design for their project. In this stage, the team should provide details of the components and their interaction such as working with external files, accessing internal images, or communicating with entities over the internet. The exact architecture and design may evolve, but the team should be clear that they'd need the specified functionality. **This will require significant coordination with your client**.
 

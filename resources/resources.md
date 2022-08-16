@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Resources
+exclude: true
 ---
 
 ## Process resources
