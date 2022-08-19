@@ -13,7 +13,7 @@ _This is up to you._
 
 A key point of this semester is that I’m not going to dictate precisely how you are to operate (more give you a framing). However, I do expect significant reflection and action surrounding your processes. This is your opportunity to experiment with professional processes for productivity.
 
-### Individually (Due by 09.02)
+### Individually (09.02)
 Before you continue, make sure you familiarize yourself with the agile processes you learned 205:
 - [The Beginner's Guide to Scrum and Agile Project Management](https://blog.trello.com/beginners-guide-scrum-and-agile-project-management)
 - [A Pretty Good Summary of Lean, Agile, Scrum](https://medium.com/@takeshi.yoshida/a-pretty-good-summary-of-lean-agile-scrum-168cf123748)

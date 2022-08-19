@@ -11,9 +11,7 @@ title: Syllabus
 - **How to meet with me:** If I'm not in my office with the door open, the best way to schedule a meeting is to [visit my website](https://evanpeck.github.io/) and click the `Meet with Me` button. 
 
 ## Course Overview
-This is a project-based course. You will develop a large piece of software using an agile software development process. The course meets three hours a week with a mix of lectures, collaborative learning activities, customer meetings, and team meetings.
-
-Clients from both the community and from industry will propose projects for students to work with. Since we have only one semester to work on the projects, we will need to make a decision on the project in a short period of time, e.g., about two weeks. Teams of students can work on different projects.
+This is a project-based course. You will develop a large piece of software using an agile software development process. The course meets three hours a week with a mix of lectures, collaborative learning activities, client meetings, and team meetings.Clients from both the community and from industry will propose projects for students to work with. Since we have only one semester to work on the projects, we will need to make a decision on the project in a short period of time, e.g., about two weeks. 
 
 **Since this is a W-2 course, students are expected to have a substantial amount of writing.** During the semester, we will set a number of milestones (short term goals) for the project that each team needs to meet. These milestones can be in the forms of written papers, presentations, deliverable software components, among others.
 
@@ -42,9 +40,9 @@ We will employ an agile software development process. Students are expected to a
 ### Individual Responsibilities
 - **Attendance and Participation:** CSCI 479 is a project course. While we will have three meetings per week at the specified hours, we will not have regular lectures. Instead we will discuss various issues and explore technologies needed to complete the product as a class or as a project team. _Attendance and participation in all meetings are critical._
 
-- **Course Reflections:** Each student is asked to respond to weekly prompts in a shared Google Drive folder. The intended reader of the journals is your instructor. The expected length is approximately one page, single-spaced, size 12 font (including section headers).
+- **Individual writing and reflection:** Each student is asked to respond to weekly prompts in a shared Google Drive folder. The intended reader of this submissions is your instructor. The expected length is approximately one page. A template is provided for you via Google Classroom.
 
-- **Final Reflection of Bucknell education experience:** Because CSCI 479 is designed to be a culminating experience for students, each student is required to write an individual paper to reflect on their Bucknell education. Contents should include, but not limited to, your experiences as a student at Bucknell, your computer science education, your general education, and your extra-curriculum activities that help you grow intellectually. General length of the paper should be 2,000 to 2,500 words.
+- **Final Reflection of Bucknell education experience:** Because CSCI 479 is designed to be a culminating experience for students, each student is required to write an individual paper to reflect on their Bucknell education. Contents should include, but not limited to, your experiences as a student at Bucknell, your computer science education, your general education, and your extra-curriculum activities that help you grow intellectually. General length of the paper should be approximately 2,500 words.
 
 
 ### Group Responsibilities
@@ -59,22 +57,24 @@ We will employ an agile software development process. Students are expected to a
 
 - **Final Report and Presentation:** Each team will write a final report and make a final presentation about their project at a designated time.
 
-**If there are problems with a team member**, the instructor may re-weight  dimensions of team grades (positively or negatively) to reflect uneven contributions. However, it is each team's collective responsibility to work towards processes of respect, transparency, accountability, and documentation to help mitigate these instances. 
-{: .notice .notice-red}
 
 --------------
 ## Assessment
-- [This rubric](../rubrics/presentation.pdf) will be used to assess your presentations.
-- [This rubric](../rubrics/writing.pdf) will be used to assess your writings.
+- [This rubric](https://docs.google.com/spreadsheets/d/14jlmGaAK_6JquDYGFbrZSyTkQGRQtIbQPo1yyRxbdWM/edit?usp=sharing) will be used to assess your presentations.
+- [This rubric](https://docs.google.com/spreadsheets/d/14jlmGaAK_6JquDYGFbrZSyTkQGRQtIbQPo1yyRxbdWM/edit#gid=1783332341) will be used to assess your writings.
 
 ### Grades
-- (Individual) Reflection Prompts: 15%
-- (Team) System Design Report & Presentation: 8%
-- (Team) Project Progress Report & Presentation: 16%
-- (Individual/Team) Participation and Team Assessments: 15%
-- (Team) Final Project Presentation & Report: 20%
-- (Team) Project Artifacts: 15%
-- (Individual) Reflection Paper: 10%
+- (_Individual_) Writing and Reflection Prompts: 20%
+- (_Individual_) Participation and Engagement: 10%
+- (_Individual_) Final Reflection Paper: 11%
+
+- (_Team_) System Design Report & Presentation: 8%
+- (_Team_) Project Progress Report & Presentation: 16%
+- (_Team_) Final Project Presentation & Report: 20%
+- (_Team_) Final Project Artifacts: 15%
+
+**If there are problems with a student's engagement or contributions to their group**, the instructor will re-weight  any or all dimensions of team grades (positively or negatively). However, it is each team's collective responsibility to work towards processes of respect, transparency, accountability, and documentation to help mitigate these instances. 
+{: .notice .notice-red}
 
 --------------
 
