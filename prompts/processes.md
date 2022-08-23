@@ -5,8 +5,8 @@ exclude: true
 ---
 
 There are two portions to this reflection. It's a little more time-intensive, but I can't stress how important it is to set yourself up for success for the remainder of the semester.
-- *Individual:* You will read and reflect on software engineering team processes and management.
-- *Team:* You will come up with a 1-page process plan that includes roles of individuals, processes you'll adhere to, and platforms you'll use to support those processes.
+- *Individual (due 9.02):* You will read and reflect on software engineering team processes and management. 
+- *Team (due 9.07):* You will come up with a 1-page process plan that includes roles of individuals, processes you'll adhere to, and platforms you'll use to support those processes.
 
 In CSCI 205, some students didn’t have a good experience with agile processes. But you should reflect on how this project environment is different. You are working with an external client. That means that you could have changing and/or unstable requirements. It also means that the scale of your project is larger, with more complex moving parts.
 _This is up to you._
@@ -34,4 +34,7 @@ Once you have a good sense of what makes an effective team, **individually** ans
 Make sure you have a copy to bring to your team in class on 09.05.
 
 ### As a Team (9.05 + 9.07)
-Now that you have come up with plans independently, merge together as a team and get on the same page. By the end of 09.07, you should have a bullet point list that answers the same questions that you answered above. Submit it in Google Classroom. 
+Now that you have come up with plans independently, merge together as a team and get on the same page. By the end of 09.07, you should have a bullet point list that answers the same questions that you answered above. 
+
+Some constraints and guidelines: 
+- I should see specifically defined roles and names associated with those roles
