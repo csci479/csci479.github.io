@@ -1,6 +1,6 @@
 ---
 layout: page
-title: I\:Team Processes 
+title: I:Team Processes 
 exclude: true
 ---
 
