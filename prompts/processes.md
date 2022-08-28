@@ -11,7 +11,8 @@ There are two portions to this reflection. It's a little more time-intensive, bu
 In CSCI 205, some students didn’t have a good experience with agile processes. But you should reflect on how this project environment is different. You are working with an external client. That means that you could have changing and/or unstable requirements. It also means that the scale of your project is larger, with more complex moving parts.
 _This is up to you._
 
-A key point of this semester is that I’m not going to dictate precisely how you are to operate (more give you a framing). However, I do expect significant reflection and action surrounding your processes. This is your opportunity to experiment with professional processes for productivity.
+A key point of this semester is that I’m not going to dictate precisely how you are to operate (more give you a framing). However, I do expect significant reflection and action surrounding your processes*. This is your opportunity to experiment with professional processes for productivity.
+
 
 ### Individually (09.02)
 Before you continue, make sure you familiarize yourself with the agile processes you learned 205:
@@ -31,7 +32,9 @@ Once you have a good sense of what makes an effective team, **individually** ans
 <br/><br/>
 - Similarly, how do you expect to amplify your team's **PROCESS.** If you are familiar with senior design, you'll know that you should be using an agile scrum development process. However, those guidelines still leave a lot of ambiguity and interpretation that you can sculpt to your particular needs. Consider how to integrate notions of _awareness, ownership, distance, product value._ _How will you know what's happening in your team? Who owns what?_
 
-Make sure you have a copy to bring to your team in class on 09.05.
+**Constraint:** For some consistency, each team should minimally maintain a Product Backlog, a Sprint Backlog, and maintain some view of progress (such as a burn down chart).
+
+Make sure you have a copy (even if digital) to bring to class on 9.02 and 9.05.
 
 <!-- ### As a Team (9.05 + 9.07)
 Once you have a team... it's time to merge your independent ideas and get on the same page. By the end of 09.07, you should have a bullet point list that answers the same questions that you answered above - what is the communication plan? What are the work expectations? How will you promote transparency and accountability? 
