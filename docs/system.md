@@ -1,18 +1,23 @@
 ---
 layout: page
-title: System Design Document
+title: System Design Proposal
 exclude: true
 ---
 
-- **One-Page Overview:** 9/12 (bring to class)
-- **Written Report and Presentations:** 9/19
+- **One-Page Overview:** 9/14 (bring to class)
+- **Written Report and Presentations:** 9/23
 
-Student teams will present to the class a system design for their project. In this stage, the team should provide details of the components and their interaction such as working with external files, accessing internal images, or communicating with entities over the internet. The exact architecture and design may evolve, but the team should be clear that they'd need the specified functionality. **This will require significant coordination with your client**.
+Student teams will present to the class a system design for their project. In this stage, the team should provide details of the components and their interaction such as working with external files, accessing internal images, or communicating with entities over the internet. The exact architecture and design may evolve, but the team should be clear that they'd need the specified functionality. **This will require coordination with your client**.
 
+**Before your one-page overview:**
 - First, read [Angela Zhang's article on "How to write a good software design doc"](https://medium.freecodecamp.org/how-to-write-a-good-software-design-document-66fcf019569c). We'll be following this model and I will borrow heavily from it here.
-- Second, read [this document that I've created with writing tips.](../resources/writingtips.html)
 
-Your team's design doc should include:
+**Before your full written report:**
+- Read [this document that I've created with writing tips.](../resources/writingtips)
+- You should draw on the writing workshop that we did together in class. 
+
+Your team's design doc should minimally include the following pieces. 
+
 - **Title and People:** name of the system, the authors, and the date it was last updated.
 
 - **Overview:** give a _quick_ summary of the problem, the client, and your proposed solution. Keep this short. You'll go into more detail later on.
@@ -23,9 +28,8 @@ Your team's design doc should include:
 
 - **Proposed Solution:** This is will compose of most of your report.
   - *Interaction elements:*
-    - [Rough mockups of the screen (these can be sketches)](http://faculty.washington.edu/ajko/books/design-methods/how-to-prototype.html)
-    - Feedback from your client about your mockups
-    - A more polished mockup that gives a clearer direction for your user experience. Many aspects may change after this point: styling, information organization, etc. However, you should have used your prototypes as a method to validate the functionality of your project.
+    - [Rough mockups of the screen (these can be hand-drawn sketches)](https://medium.com/ux-prototyping/6-reasons-why-you-should-be-prototyping-more-6b7b2b15da77)
+- These should give a clear direction for your user experience. Many aspects may change after this point: styling, information organization, etc. However, you should have used your prototypes as a method to validate the functionality of your project.
 <br/><br/>
   - *Major technical components of the system:*
     - conceptual overview of your system that shows interaction between the major components (_for example, diagram that shows database, server, front-end_)
@@ -33,10 +37,10 @@ Your team's design doc should include:
     - other artifacts to show how the system might work together
 <br/><br/>
 
-- **Milestones:** see Angela's article above. Realize that these are very rough estimates. I would encourage you to have a fully functioning prototype (even if it's ugly) as soon as possible. Don't pace yourself to fill the whole semester. Things _will_ go wrong.
+- **Milestones:** see Angela's article above. Realize that these are very rough estimates. I would encourage you to have a fully functioning prototype (even if it's ugly) as soon as possible. Plan to finish very early. Things _will_ go very wrong.
 
 
 **Deliverables:**
-- **One-Page Overview:** You'll bring a bullet-pointed one-page overview to class on 9/12 + rough sketches of your user interface ideas. We'll use this period an opportunity to give technical feedback to each other - leveraging the vast set of skills and experiences that are represented by our entire senior class.
-- **Written Report:** The written report is expected 5-7 pages (2,000 to 2,500 words). Refer to our [writing rubric](../rubrics/writing.pdf)
-- **Presentation:** The presentation is expected to be 15 minute (10 minutes of presentation, 5 minutes of questions). That's not much time! - so be clear in your communication and cover each of the major points listed above. Refer to our [presentation rubric](../rubrics/presentation.pdf)
+- **One-Page Overview:** You'll bring a bullet-pointed one-page overview to class on 9/14 + rough sketches of your user interface ideas. We'll use this period an opportunity to give technical feedback to each other - leveraging the vast set of skills and experiences that are represented by our entire senior class.
+- **Written Report (on 09/23):** The written report is expected 5-7 pages (2,000 to 2,500 words). Refer to our [writing rubric](https://docs.google.com/spreadsheets/d/14jlmGaAK_6JquDYGFbrZSyTkQGRQtIbQPo1yyRxbdWM/edit?usp=sharing)
+- **Presentation (on 09/23):** The presentation is expected to be no more than 10 minutes, with 5 minutes of questions. That's not much time! - so be clear in your communication and cover each of the major points listed above. Refer to our [presentation rubric](https://docs.google.com/spreadsheets/d/14jlmGaAK_6JquDYGFbrZSyTkQGRQtIbQPo1yyRxbdWM/edit#gid=1783332341)
