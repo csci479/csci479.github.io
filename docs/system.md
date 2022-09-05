@@ -4,6 +4,8 @@ title: System Design Proposal
 exclude: true
 ---
 
+<link rel="stylesheet" href="cspui.css">
+
 - **One-Page Overview:** 9/14 (bring to class)
 - **Written Report and Presentations:** 9/23
 
