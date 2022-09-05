@@ -18,6 +18,15 @@ After 3 years at Bucknell, you've gained an extraordinary amount of technical kn
 - [Google Classroom Link](https://classroom.google.com/u/1/c/NTM3NjkwMjIwMzU4)
 - [Classroom and Discord invites](https://moodle.bucknell.edu/course/view.php?id=47293)
 
+## >> 🧑🧑🧑 Team Milestones
+📣 Team Milestones should be committed to your repository in a `reports` folder as well as in the appropriate submission space in Google Classroom. Teams will be assigned at the start of the 3rd week of class. 
+{: .notice .notice-blue}
+
+- [Team Processes Overview](prompts/team_processes) \| _9.07_
+- [System Design Paper](docs/system) \| Overview: _9.14_ \| Report: _9.23_
+- 1st Progress Report \| _10.14_
+- 2nd Progress Report \| _11.04_
+- Final Report and Presentation \| _12.02 & 12.05_
 
 ## >> 🧑 Individual Milestones
 📣 Individual work should be submitted via Google Classroom. Links and content will appear below as each date approaches and we progress through the semester 
@@ -25,9 +34,9 @@ After 3 years at Bucknell, you've gained an extraordinary amount of technical kn
 
 - Individual Prompts (all deadlines are at 9am):
   - 8.24: What do we want to get out of this course? _See Google Classroom_
-  - 8.26: Rapid-fire assessment
-  - 8.29: How do we form a good team? 
-  - 9.02: How do we ensure a healthy, productive team? 
+  - 8.26: [Rapid-fire assessment](prompts/project_assess)
+  - 8.29: [How do we form a good team?](prompts/teamcreation)
+  - 9.02: [How do we ensure a healthy, productive team?](prompts/processes)
   - _Upcoming topics: technical writing, ethics & social impact, code reviewing_
 
   <!-- - 8.26: [Rapid-fire assessment](prompts/projectassess)
@@ -38,15 +47,6 @@ After 3 years at Bucknell, you've gained an extraordinary amount of technical kn
 
 <!-- <br/><br/>
 - [Final (Individual) Reflection](docs/reflection) \| _End of finals period_ -->
-
-## >> 🧑🧑🧑 Team Milestones
-📣 Team Milestones should be committed to your repository in a `reports` folder as well as in the appropriate submission space in Google Classroom. Teams will be assigned at the start of the 3rd week of class. 
-{: .notice .notice-blue}
-
-- [System Design Paper](docs/system) \| Overview: _9.14_ \| Report: _9.23_
-- 1st Progress Report \| _10.14_
-- 2nd Progress Report \| _11.04_
-- Final Report and Presentation \| _12.02 & 12.05_
 
 ## >> 🗓️ Schedule
 📣 Due to the open nature of this course, a large chunk of the semester is intentionally left a bit ambitious. This is to allow us the option to align content and timelines better with clients and projects. The major deadlines above will hold. 
