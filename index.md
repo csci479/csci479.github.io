@@ -43,7 +43,7 @@ After 3 years at Bucknell, you've gained an extraordinary amount of technical kn
 📣 Team Milestones should be committed to your repository in a `reports` folder as well as in the appropriate submission space in Google Classroom. Teams will be assigned at the start of the 3rd week of class. 
 {: .notice .notice-blue}
 
-- System Design Paper \| Overview: _9.14_ \| Report: _9.21_
+- [System Design Paper](docs/system) \| Overview: _9.14_ \| Report: _9.23_
 - 1st Progress Report \| _10.14_
 - 2nd Progress Report \| _11.04_
 - Final Report and Presentation \| _12.02 & 12.05_
