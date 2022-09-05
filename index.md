@@ -49,7 +49,7 @@ After 3 years at Bucknell, you've gained an extraordinary amount of technical kn
 - [Final (Individual) Reflection](docs/reflection) \| _End of finals period_ -->
 
 ## >> 🗓️ Schedule
-📣 Due to the open nature of this course, a large chunk of the semester is intentionally left a bit ambitious. This is to allow us the option to align content and timelines better with clients and projects. The major deadlines above will hold. 
+📣 Due to the open nature of this course, a large chunk of the semester is intentionally left a bit ambiguous. This is to allow us the option to align content and timelines better with clients and projects. The major deadlines above will hold. 
 {: .notice .notice-blue}
 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT3YZYNHB0UfEEfzZsw-h7HYV2c8Cw7ssXUXovTQZWTtYrKFzgr6bIYlKF8yN6K7sbm2JTUhm1gzbh_/pubhtml?gid=263478748&amp;single=true&amp;widget=false&amp;headers=false&amp;range=a1:f47&amp;chrome=false" style="width:100%;height:550px;"></iframe>
