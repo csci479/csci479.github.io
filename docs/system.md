@@ -18,7 +18,7 @@ Student teams will present to the class a system design for their project. In th
 
 **Before your full written report:**
 - Read [this document that I've created with writing tips.](../resources/writingtips)
-- You should draw on the writing workshop that we will do together in class. 
+- You should draw on the writing workshop that we will do together in class - [you can view the slides by clicking here](https://docs.google.com/presentation/d/1vqzKAl42ZNS97dIGBNvTEi4-vFmtEkrB-8W-xdYr1PA/edit?usp=sharing)
 
 ### Writing the Design Doc
 
