@@ -11,7 +11,7 @@ title: Syllabus
 - **How to meet with me:** If I'm not in my office with the door open, the best way to schedule a meeting is to [visit my website](https://evanpeck.github.io/) and click the `Meet with Me` button. 
 
 ## Course Overview
-This is a project-based course. You will develop a large piece of software using an agile software development process. The course meets three hours a week with a mix of lectures, collaborative learning activities, client meetings, and team meetings.Clients from both the community and from industry will propose projects for students to work with. Since we have only one semester to work on the projects, we will need to make a decision on the project in a short period of time, e.g., about two weeks. 
+This is a project-based course. You will develop a large piece of software using an agile software development process. The course meets three hours a week with a mix of lectures, collaborative learning activities, client meetings, and team meetings.Clients from both the community and from industry will propose projects for students to work with. Since we have only one semester to work on the projects, we will need to make a decision on the project in a short period of time, e.g., about two weeks.
 
 **Since this is a W-2 course, students are expected to have a substantial amount of writing.** During the semester, we will set a number of milestones (short term goals) for the project that each team needs to meet. These milestones can be in the forms of written papers, presentations, deliverable software components, among others.
 
@@ -21,13 +21,6 @@ Students will be able to...
 - function effectively in a project team (CAC 5);
 - use knowledge from previous courses in designing, implementing, and evaluating a culminating computing project (CAC 1, 2);
 - organize, write, and deliver technical written document(s) and oral presentation(s) about the project (CAC 3).
-
-<!-- CAC Student Outcomes Addressed:
-
-- CAC (1): Analyze a complex computing problem and to apply principles of computing and other relevant disciplines to identify solutions.
-- CAC (2) Design, implement, and evaluate a computing-based solution to meet a given set of computing requirements in the context of the program’s discipline.
-- CAC (3): Communicate effectively in a variety of professional contexts.
-- CAC (5): Function effectively as a member or leader of a team engaged in activities appropriate to the program’s discipline. -->
 
 --------------
 ## Expected Work
