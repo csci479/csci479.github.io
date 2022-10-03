@@ -24,8 +24,8 @@ After 3 years at Bucknell, you've gained an extraordinary amount of technical kn
 
 - [Team Processes Overview](prompts/team_processes) \| _9.07_
 - [System Design Paper](docs/system) \| Overview: _9.14_ \| Report: _9.23_
-- 1st Progress Report \| _10.14_
-- 2nd Progress Report \| _11.04_
+- [1st Progress Report](docs/progress) \| _10.19_
+- [2nd Progress Report](docs/progress) \| _11.07_
 - Final Report and Presentation \| _12.02 & 12.05_
 
 ## >> 🧑 Individual Milestones
