@@ -38,7 +38,7 @@ After 3 years at Bucknell, you've gained an extraordinary amount of technical kn
   - 8.29: [How do we form a good team?](prompts/teamcreation)
   - 9.02: [How do we ensure a healthy, productive team?](prompts/processes)
   - 9.30: [How do we make sure we're not making the world worse?](prompts/ethics)
-  - _Upcoming topics: technical writing, ethics & social impact, code reviewing_
+  - 10.14: [How do we ensure quality in our code?](prompts/codereview)
 
   <!-- - 8.26: [Rapid-fire assessment](prompts/projectassess)
   - 8.29: [How do we form a good team?](prompts/teamcreation)
