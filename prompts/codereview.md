@@ -7,11 +7,12 @@ exclude: true
 **In industry, code reviews are critical** They help enforce quality, detect problems before they arise, act as an internal educational mechanism, and finally, increase the team’s internal knowledge of a product. Peer code reviews should never be used in performance reports: it’s important that reviews are framed as formative. 
 
 ### What you need to do...
-In this, you should pick some code 
+For you to complete this assignment, your group needs to pick some code to analyze _in advance_. 
 
-On Google Classroom, your reflection should include... 
-1. A reflection on the current way your team assures quality. 
-2. A
+On Google Classroom, you should:
+1. **Attach:** an annotated version of the code that you reviewed. It should clearly show your comments and analysis. **Bring this to class on the due date**
+2. **Reflect:** 1/2 page of writing (so less than normal) on how going through this process makes you reflect on the processes your team uses for quality. 
+
 
 ### Some background (from Amy Ko’s chapter on “Verification”)
 [Amy Ko's Chapter on Verification](http://faculty.washington.edu/ajko/books/cooperative-software-development/verification.html)
@@ -32,7 +33,7 @@ First, keep the reviews small, 200 - 400 lines of code. Then, make sure everyone
 
 ### What are the things you look for in a code review? 
 _Note: This list is overkill - narrow it down to what you consider to be most critical._ 
-From: [https://blog.fogcreek.com/increase-defect-detection-with-our-code-review-checklist-example/](https://blog.fogcreek.com/increase-defect-detection-with-our-code-review-checklist-example/)
+From: [https://blog.fogcreek.com/increase-defect-detection-with-our-code-review-checklist-example/](https://jesseheines.com/~heines/91.462/Resources/CodeReviewChecklists/Binder_4documents_2016-03-20.pdf)
 
 **GENERAL**
 - Is all the code easily understood?
