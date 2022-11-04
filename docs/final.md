@@ -11,7 +11,7 @@ exclude: true
 ## Final Project Report
 Your final report is a summation of all the work that you have accomplished over the course of the semester. It should act as a standalone document. As a result, you may draw heavily from your previous reports in the class, including your system design and your progress reports. It is okay to duplicate information from those reports **as long as it is updated, accurate, and professional in quality**.
 
-A report of at least 7-10 pages that should include the following:
+A report of _at least_ 7-10 pages that should include the following:
 
 - **Overview / Introduction**
   - An overview of the motivation behind your project
@@ -47,7 +47,6 @@ The team presentation should aim at faculty and students who have sufficient com
 - _How did you build it?:_ An overview of your technical infrastructure
 - _How did your development processes contribute towards your goal?:_ A reflection on how your team processes worked and/or didn't work to produce high quality
 
-
 ### Final Demo Video
 Demo videos have the potential to last far longer than working demos. In that spirit, you should have a demo video that that demonstrates the core interactions of your interface. By the end of the video, it should be clear what the primary functions of your app are.
 
@@ -72,24 +71,20 @@ Since our intention is to be able to broadly share these videos, it is important
 
 - [_Bucknell's Music and Sound resources_](http://researchbysubject.bucknell.edu/c.php?g=89792&p=579601): In particular, I would recommend the AudioBlocks link on this site, which Bucknell has a license for. I have found it to be a great resources for everything from sound effects to background music.
 
-- [_Bucknell's Video Resources_](http://researchbysubject.bucknell.edu/c.php?g=89792&p=579600): Similar to AudioBlocks, VideoBlocks will allow you to download snippets of video that you can freely use in your own movies (if needed).
 
 #### Recording your Video
 Your video should be as high quality as possible. For many of your screen-based products, you'll want some kind of screen-capturing software.
 
-- **On Mac:** _QuickTime_ has built-in screen capture software that will record any activity on the screen. There are other options, but this is likely the most simple.
+- **On Mac:** _QuickTime_ has built-in screen capture software that will record any activity on the screen. You can also use other options you're familiar with (I like to use [Loom](https://www.loom.com/))
 - **On Windows:** There are a number of free options on Windows - [many of which can be explored in this article](http://www.techradar.com/news/the-best-free-screen-recorder)
 
-#### Video Editors
-You'll also need a decent video editor to put together sight and sound.
 
-- **On Mac:** _iMovie_ is probably your best bet. It provides a very easy drag-and-drop interface to import music, videos, and images, as well as create basic annotations (titles).
-
-### Deliverables
+### Deliverable Checklist
 - A PDF of your written report
-- A PDF (or PPT file) or your final presentation
+- Google slides of your final presentation
 - Final project source code in a zip format, generated from your repository.
 - 1-3 minute demo video. Raw movie file should be uploaded to Drive Folder. In addition, the video should be uploaded to an accessible platform (YouTube, Vimeo link).
+
 - A README that includes:
   - A video link to your demo from an accessible platform (YouTube, Vimeo). If you are uncomfortable with publicizing your product, you may generate a private link
   - A link to your repository (I should have permission to at least view it). 
