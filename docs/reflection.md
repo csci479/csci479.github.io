@@ -10,8 +10,8 @@ Because CSCI 479 is designed as a culminating experience for students, each stud
 
 The intended audience of the paper should be someone who knows Bucknell and the general concept of college undergraduate education.
 
-While the language of this document will be more reflective in nature, I will still be evaluating your clarity and structure of your document. So I would encourage you to use a professional template and structure it in a similar way that you have
+While the language of this document will be more reflective in nature, I will still be evaluating your clarity and structure of your document. So I would encourage you to structure it in a similar way that you have for previous reports (subheadings, etc.).
 
 **I find these reflections very valuable.** When we talk about decisions as a department, or even meet as a university.
 
-_Upload a PDF of this document to your Individual Drive folder_
+_Upload a PDF of this document to Google Classroom_

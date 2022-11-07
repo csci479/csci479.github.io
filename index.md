@@ -26,11 +26,13 @@ After 3 years at Bucknell, you've gained an extraordinary amount of technical kn
 - [System Design Paper](docs/system) \| Overview: _9.14_ \| Report: _9.23_
 - [1st Progress Report](docs/progress) \| _10.19_
 - [2nd Progress Report](docs/progress) \| _11.07_
-- Final Report and Presentation \| _12.02 & 12.05_
+- [Final Report and Presentation](docs/final) \| _12.02 & 12.05_
 
 ## >> 🧑 Individual Milestones
 📣 Individual work should be submitted via Google Classroom. Links and content will appear below as each date approaches and we progress through the semester 
 {: .notice .notice-blue}
+
+- [Final Reflection](docs/reflection)
 
 - Individual Prompts (all deadlines are at 9am):
   - 8.24: What do we want to get out of this course? _See Google Classroom_

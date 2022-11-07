@@ -4,8 +4,8 @@ title: Project Progress Report
 exclude: true
 ---
 
-- **Written Report Due:** 10/19, 11/07
-- **Presentations:** 10/19, 11/07
+- **Written Report Due:** 10/19, 11/11
+- **Presentations:** 10/19, 11/09 and 11/11
 
 While we will frequently exchange information through weekly meetings over the course of the semester, two formal progress reports and presentations are required. Each report should include the following information (it does not need to be in this order):
 

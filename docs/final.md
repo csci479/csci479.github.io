@@ -4,8 +4,8 @@ title: Final Presentation and Demonstration
 exclude: true
 ---
 
-**Presentation Date(s):** TBA
-**Written Report Deadline:** 12/3, 3pm  
+**Presentation Date(s):** 12/02, 12/05
+**Written Report Deadline:** 12/08
 
 
 ## Final Project Report
@@ -34,16 +34,16 @@ A report of _at least_ 7-10 pages that should include the following:
   - Reflection: What worked or didn't work about your processes for this project? What might you change if you did it again?
 
 - **Conclusion**
-  - Given more time, what are ways that your application could be improved (if any)?
+  - Given more time by another engineering team, what are ways that your application should be improved (if any)?
   - A good wrap-up paragraph or two that summarizes your project.
 
-This is your final product and it should reflect the professional style and structure that we have been shooting for over the course of this semester! I would _heavily_ encourage you to use the Overleaf template (or a similarly styled professional template). I will also allow a web-based format if you would like to develop it for showing off to future employers (for example, Wordpress or Medium). However, I will maintain the same styling expectations.
+This is your final product and it should reflect the professional style and structure that we have been shooting for over the course of this semester! 
 
 ### Team Presentation
-The team presentation should aim at faculty and students who have sufficient computing experiences. The presentation should contain the following points and should be **no more than 15 minutes**. There is no lower limit on your presentation time.
+The team presentation should aim at faculty and students who have sufficient computing experiences. The presentation should contain the following points and should be **no more than 15 minutes**. 
 - _What is the problem?:_ An overview of your problem
 - _What is your answer?:_ An overview of your solution (how it meets your clients needs)
-- _Showing your solution:_ A demo of your solution (or you could play your demo video!)
+- _Showing your solution:_ A live demo of your solution (or you could play your demo video!)
 - _How did you build it?:_ An overview of your technical infrastructure
 - _How did your development processes contribute towards your goal?:_ A reflection on how your team processes worked and/or didn't work to produce high quality
 
@@ -51,7 +51,6 @@ The team presentation should aim at faculty and students who have sufficient com
 Demo videos have the potential to last far longer than working demos. In that spirit, you should have a demo video that that demonstrates the core interactions of your interface. By the end of the video, it should be clear what the primary functions of your app are.
 
 #### What is a _good_ video?
-
 Good videos have good visuals and good sound. The advice seems obvious, but the number of submissions that I see every year with blurry input and the soundscape of a wind tunnel tells me that these ideas need to be reinforced.
 
 Decide whether you want to use music, captions, narrative or some kind of combination of them. For the love of god, don't create a silent demo video. Below, you'll find some nice resources for music that you can include as a backdrop to your product.
@@ -82,7 +81,7 @@ Your video should be as high quality as possible. For many of your screen-based 
 ### Deliverable Checklist
 - A PDF of your written report
 - Google slides of your final presentation
-- Final project source code in a zip format, generated from your repository.
+- Final project source code in a zip format, generated from your repository. 
 - 1-3 minute demo video. Raw movie file should be uploaded to Drive Folder. In addition, the video should be uploaded to an accessible platform (YouTube, Vimeo link).
 
 - A README that includes:
